@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[W50Kq7OIhVFLTy9daYLlDw]]></key>
+    <method><![CDATA[author_list]]></method>
+  </Request>
+  <author>
+    <id>10746</id>
+    <name>Jim Butcher</name>
+    <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+    <books start="1" end="30" total="162">
+      <book>
+        <id type="integer">47212</id>
+        <isbn>0451457811</isbn>
+        <isbn13>9780451457813</isbn13>
+        <text_reviews_count type="integer">11277</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.kdeKBNrcfO_5Qc137-CroQ</uri>
+        <title>Storm Front (The Dresden Files, #1)</title>
+        <title_without_series>Storm Front</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1419456275m/47212.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1419456275s/47212.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/47212.Storm_Front</link>
+        <num_pages>322</num_pages>
+        <format>Mass Market Paperback</format>
+        <edition_information>First Edition</edition_information>
+        <publisher>Penguin ROC</publisher>
+        <publication_day/>
+        <publication_year>2000</publication_year>
+        <publication_month>4</publication_month>
+        <average_rating>4.02</average_rating>
+        <ratings_count>252447</ratings_count>
+        <description>&lt;b&gt;HARRY DRESDEN — WIZARD&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Lost Items Found. Paranormal Investigations. Consulting. Advice. Reasonable Rates. No Love Potions, Endless Purses, or Other Entertainment.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Harry Dresden is the best at what he does. Well, technically, he's the &lt;i&gt;only&lt;/i&gt; at what he does. So when the Chicago P.D. has a case that transcends mortal creativity or capability, they come to him for answers. For the "everyday" world is actually full of strange and magical things—and most don't play well with humans. That's where Harry comes in. Takes a wizard to catch a—well, whatever. There's just one problem. Business, to put it mildly, stinks.&lt;br /&gt;&lt;br /&gt;So when the police bring him in to consult on a grisly double murder committed with black magic, Harry's seeing dollar signs. But where there's black magic, there's a black mage behind it. And now that mage knows Harry's name. And that's when things start to get interesting.&lt;br /&gt;&lt;br /&gt;Magic - it can get a guy killed.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2000</published>
+        <work>
+          <id>1137060</id>
+          <uri>kca://work/amzn1.gr.work.v1.0hePUClD1juumI03DKIlOw</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">91477</id>
+        <isbn>0451458125</isbn>
+        <isbn13>9780451458124</isbn13>
+        <text_reviews_count type="integer">5018</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.5Ie1k3u32iZ62ykXvV5oZA</uri>
+        <title>Fool Moon (The Dresden Files, #2)</title>
+        <title_without_series>Fool Moon</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1507307616m/91477.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1507307616s/91477.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/91477.Fool_Moon</link>
+        <num_pages>401</num_pages>
+        <format>Mass Market Paperback</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>9</publication_day>
+        <publication_year>2001</publication_year>
+        <publication_month>1</publication_month>
+        <average_rating>4.03</average_rating>
+        <ratings_count>139926</ratings_count>
+        <description>&lt;b&gt;Harry Dresden--Wizard&lt;/b&gt;&lt;br /&gt;Lost Items Found. Paranormal Investigations. Consulting. Advice. Reasonable Rates. No Love Potions, Endless Purses, or Other Entertainment.&lt;br /&gt;&lt;br /&gt;Business has been slow. Okay, business has been dead. And not even of the undead variety. You would think Chicago would have a little more action for the only professional wizard in the phone book. But lately, Harry Dresden hasn't been able to dredge up any kind of work--magical &lt;i&gt;or&lt;/i&gt; mundane.&lt;br /&gt;&lt;br /&gt;But just when it looks like he can't afford his next meal, a murder comes along that requires his particular brand of supernatural expertise.&lt;br /&gt;&lt;br /&gt;A brutally mutilated corpse. Strange-looking paw prints. A full moon. Take three guesses--and the first two don't count...</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2001</published>
+        <work>
+          <id>855288</id>
+          <uri>kca://work/amzn1.gr.work.v1.blHq3aawll-b5DVNUGJ6pQ</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">91476</id>
+        <isbn>0451458443</isbn>
+        <isbn13>9780451458445</isbn13>
+        <text_reviews_count type="integer">3792</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.83D-05EoBXdANaC-AksqNg</uri>
+        <title>Grave Peril (The Dresden Files, #3)</title>
+        <title_without_series>Grave Peril</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1266470209m/91476.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1266470209s/91476.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/91476.Grave_Peril</link>
+        <num_pages>378</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>4</publication_day>
+        <publication_year>2001</publication_year>
+        <publication_month>9</publication_month>
+        <average_rating>4.18</average_rating>
+        <ratings_count>121217</ratings_count>
+        <description>&lt;i&gt;An alternative cover edition with a different page count exists &lt;a href="https://www.goodreads.com/book/show/13511897.here" title="here" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Harry Dresden - Wizard&lt;br /&gt;Lost Items Found. Paranormal Investigations. Consulting. Advice. Reasonable Rates. No Love Potions, Endless Purses, or Other Entertainment.&lt;br /&gt;&lt;br /&gt;Harry Dresden has faced some pretty terrifying foes during his career. Giant scorpions. Oversexed vampires. Psychotic werewolves. It comes with the territory when you're the only professional wizard in the Chicago-area phone book.&lt;br /&gt;&lt;br /&gt;But in all Harry's years of supernatural sleuthing, he's never faced anything like this: The spirit world has gone postal. All over Chicago, ghosts are causing trouble - and not just of the door-slamming, boo-shouting variety. These ghosts are tormented, violent, and deadly. Someone - or &lt;i&gt;something&lt;/i&gt; - is purposely stirring them up to wreak unearthly havoc. But why? And why do so many of the victims have ties to Harry? If Harry doesn't figure it out soon, he could wind up a ghost himself....</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2001</published>
+        <work>
+          <id>803205</id>
+          <uri>kca://work/amzn1.gr.work.v1.L2jalxiegy_76Yd8gLlsLQ</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">91478</id>
+        <isbn>0451458923</isbn>
+        <isbn13>9780451458926</isbn13>
+        <text_reviews_count type="integer">3017</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.eYTmTT8ESX7PCgb2gwMFNw</uri>
+        <title>Summer Knight (The Dresden Files, #4)</title>
+        <title_without_series>Summer Knight</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1345557469m/91478.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1345557469s/91478.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/91478.Summer_Knight</link>
+        <num_pages>446</num_pages>
+        <format>Mass Market Paperback</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>3</publication_day>
+        <publication_year>2002</publication_year>
+        <publication_month>9</publication_month>
+        <average_rating>4.30</average_rating>
+        <ratings_count>111720</ratings_count>
+        <description>&lt;i&gt;For the 1st printing edition of this ISBN, see &lt;a href="https://www.goodreads.com/book/show/10446473.here" title="here" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;HARRY DRESDEN -- WIZARD&lt;br /&gt;&lt;br /&gt;Lost items found. Paranormal Investigations. Consulting. Advice. Reasonable Rates.&lt;br /&gt;No Love Potions, Endless Purses, or Other Entertainment&lt;br /&gt;&lt;br /&gt;Ever since his girlfriend left town to deal with her newly acquired taste for blood, Harry Dresden has been down and out in Chicago. He can't pay his rent. He's alienating his friends. He can't even recall the last time he took a shower.&lt;br /&gt;&lt;br /&gt;The only professional wizard in the phone book has become a desperate man.&lt;br /&gt;&lt;br /&gt;And just when it seems things can't get any worse, in saunters the Winter Queen of Faerie. She has an offer Harry can't refuse if he wants to free himself of the supernatural hold his faerie godmother has over him--and hopefully end his run of bad luck. All he has to do is find out who murdered the Summer Queen's right-hand man, the Summer Knight, and clear the Winter Queen's name.&lt;br /&gt;&lt;br /&gt;It seems simple enough, but Harry knows better than to get caught in the middle of faerie politics. Until he finds out that the fate of the entire world rests on his solving this case. No pressure or anything...</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2002</published>
+        <work>
+          <id>912988</id>
+          <uri>kca://work/amzn1.gr.work.v1.hiLolUGgZG0fh1j3zLl22Q</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">91479</id>
+        <isbn>0451459407</isbn>
+        <isbn13>9780451459404</isbn13>
+        <text_reviews_count type="integer">2405</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.BdcX7EM_bVaQrMbKvopaMA</uri>
+        <title>Death Masks (The Dresden Files, #5)</title>
+        <title_without_series>Death Masks</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1345557713m/91479.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1345557713s/91479.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/91479.Death_Masks</link>
+        <num_pages>432</num_pages>
+        <format>Mass Market Paperback</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>5</publication_day>
+        <publication_year>2003</publication_year>
+        <publication_month>8</publication_month>
+        <average_rating>4.32</average_rating>
+        <ratings_count>102913</ratings_count>
+        <description>Harry Dresden, Chicago's only practicing professional wizard, should be happy that business is pretty good for a change. But now he's getting more than he bargained for:&lt;br /&gt;&lt;br /&gt;A duel with the Red Court of Vampires' champion, who must kill Harry to end the war between vampires and wizards...&lt;br /&gt;&lt;br /&gt;Professional hit men using Harry for target practice...&lt;br /&gt;&lt;br /&gt;The missing Shroud of Turin...&lt;br /&gt;&lt;br /&gt;A handless and headless corpse the Chicago police need identified...&lt;br /&gt;&lt;br /&gt;Not to mention the return of Harry's ex-girlfriend Susan, who's still struggling with her semi-vampiric nature. And who seems to have a new man in her life.&lt;br /&gt;&lt;br /&gt;Some days, it just doesn't pay to get out of bed. No matter how much you're charging.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2003</published>
+        <work>
+          <id>2183</id>
+          <uri>kca://work/amzn1.gr.work.v1.wCYEtGjyWujunOnrmEnbNA</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">99383</id>
+        <isbn>0451459873</isbn>
+        <isbn13>9780451459879</isbn13>
+        <text_reviews_count type="integer">2194</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.waZ_7j5ChDZ_w7M62L_jUw</uri>
+        <title>Blood Rites (The Dresden Files, #6)</title>
+        <title_without_series>Blood Rites</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1345557965m/99383.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1345557965s/99383.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/99383.Blood_Rites</link>
+        <num_pages>452</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>3</publication_day>
+        <publication_year>2004</publication_year>
+        <publication_month>8</publication_month>
+        <average_rating>4.34</average_rating>
+        <ratings_count>97520</ratings_count>
+        <description>For Harry Dresden, Chicago's only professional wizard, there have been worse assignments than going undercover on the set of an adult film. Dodging flaming monkey poo, for instance. Or going toe-to-leaf with a walking plant monster. Still, there is something more troubling than usual about his newest case. The film's producer believes he's the target of a sinister entropy curse, but it's the women around him who are dying, in increasingly spectacular ways.&lt;br /&gt;&lt;br /&gt;Harry is doubly frustrated because he got involved with this bizarre mystery only as a favor to Thomas, his flirtatious, self-absorbed vampire acquaintance of dubious integrity. Thomas has a personal stake in the case Harry can't quite figure out, until his investigation leads him straight to Thomas' oversexed vampire family. Harry is about to discover that Thomas' family tree has been hiding a shocking secret; a revelation that will change Harry's life forever.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2004</published>
+        <work>
+          <id>227172</id>
+          <uri>kca://work/amzn1.gr.work.v1.7PfhJxSFfjUholQQVY-fPg</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">17683</id>
+        <isbn>045146091X</isbn>
+        <isbn13>9780451460912</isbn13>
+        <text_reviews_count type="integer">2606</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.SlZI9LJ27ek0PUz0oywPvA</uri>
+        <title>Dead Beat (The Dresden Files, #7)</title>
+        <title_without_series>Dead Beat</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1345667776m/17683.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1345667776s/17683.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/17683.Dead_Beat</link>
+        <num_pages>517</num_pages>
+        <format>Mass Market Paperback</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>1</publication_day>
+        <publication_year>2006</publication_year>
+        <publication_month>1</publication_month>
+        <average_rating>4.44</average_rating>
+        <ratings_count>94838</ratings_count>
+        <description>Paranormal investigations are Harry Dresden’s business and Chicago is his beat, as he tries to bring law and order to a world of wizards and monsters that exists alongside everyday life. And though most inhabitants of the Windy City don’t believe in magic, the Special Investigations Department of the Chicago PD knows better. &lt;br /&gt;&lt;br /&gt;Karrin Murphy is the head of S. I. and Harry’s good friend. So when a killer vampire threatens to destroy Murphy’s reputation unless Harry does her bidding, he has no choice. The vampire wants the Word of Kemmler (whatever that is) and all the power that comes with it. Now, Harry is in a race against time—and six merciless necromancers—to find the Word before Chicago experiences a Halloween night to wake the dead...</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2006</published>
+        <work>
+          <id>6614452</id>
+          <uri>kca://work/amzn1.gr.work.v1.9lYBC2NBJkjyzC77dz3fsA</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">91475</id>
+        <isbn>0451461401</isbn>
+        <isbn13>9780451461407</isbn13>
+        <text_reviews_count type="integer">1704</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.bi3Z5buSspjfGm79OqNZDw</uri>
+        <title>White Night (The Dresden Files, #9)</title>
+        <title_without_series>White Night</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1309552288m/91475.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1309552288s/91475.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/91475.White_Night</link>
+        <num_pages>407</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>3</publication_day>
+        <publication_year>2007</publication_year>
+        <publication_month>4</publication_month>
+        <average_rating>4.41</average_rating>
+        <ratings_count>92146</ratings_count>
+        <description>&lt;b&gt;The inspiration for the Sci Fi channel television series&lt;/b&gt; &lt;br /&gt;&lt;br /&gt; In Chicago, someone has been killing practitioners of magic, those incapable of becoming full-fledged wizards. Shockingly, all the evidence points to Harry Dresden's half-brother, Thomas, as the murderer. Determined to clear his sibling's name, Harry uncovers a conspiracy within the White Council of Wizards that threatens not only him, but his nearest and dearest, too...</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2007</published>
+        <work>
+          <id>1254936</id>
+          <uri>kca://work/amzn1.gr.work.v1.FetDENQrW-sQuEgjNFbJDA</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">91474</id>
+        <isbn>0451461037</isbn>
+        <isbn13>9780451461032</isbn13>
+        <text_reviews_count type="integer">2024</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.T2bSuqxGTZbIUFssrwkR3g</uri>
+        <title>Proven Guilty (The Dresden Files, #8)</title>
+        <title_without_series>Proven Guilty</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1345667469m/91474.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1345667469s/91474.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/91474.Proven_Guilty</link>
+        <num_pages>489</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>6</publication_day>
+        <publication_year>2007</publication_year>
+        <publication_month>2</publication_month>
+        <average_rating>4.42</average_rating>
+        <ratings_count>91519</ratings_count>
+        <description>There's no love lost between Harry Dresden, the only wizard in the Chicago phone book, and the White Council of Wizards, who find him brash and undisciplined. But war with the vampires has thinned their ranks, so the Council has drafted Harry as a Warden and assigned him to look into rumors of black magic in the Windy City.&lt;br /&gt;&lt;br /&gt;As Harry adjusts to his new role, another problem arrives in the form of the tattooed and pierced daughter of an old friend, all grown-up and already in trouble. Her boyfriend is the only suspect in what looks like a supernatural assault straight out of a horror film. Malevolent entities that feed on fear are loose in Chicago, but it's all in a day's work for a wizard, his faithful dog, and a talking skull named Bob....</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2007</published>
+        <work>
+          <id>576222</id>
+          <uri>kca://work/amzn1.gr.work.v1.vr6FnXwBFSPhNSKcxVgYxA</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">6585201</id>
+        <isbn>045146317X</isbn>
+        <isbn13>9780451463173</isbn13>
+        <text_reviews_count type="integer">3155</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.lyx1idNi_NgFoYwETRYFfA</uri>
+        <title>Changes (The Dresden Files, #12)</title>
+        <title_without_series>Changes</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1304027244m/6585201.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1304027244s/6585201.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/6585201-changes</link>
+        <num_pages>438</num_pages>
+        <format>Hardcover</format>
+        <edition_information>1st Edition</edition_information>
+        <publisher>Roc</publisher>
+        <publication_day>6</publication_day>
+        <publication_year>2010</publication_year>
+        <publication_month>4</publication_month>
+        <average_rating>4.52</average_rating>
+        <ratings_count>86207</ratings_count>
+        <description>Long ago, Susan Rodriguez was Harry Dresden's lover-until she was attacked by his enemies, leaving her torn between her own humanity and the bloodlust of the vampiric Red Court. Susan then disappeared to South America, where she could fight both her savage gift and those who cursed her with it. &lt;br /&gt;&lt;br /&gt;Now Arianna Ortega, Duchess of the Red Court, has discovered a secret Susan has long kept, and she plans to use it-against Harry. To prevail this time, he may have no choice but to embrace the raging fury of his own untapped dark power. Because Harry's not fighting to save the world... &lt;br /&gt;&lt;br /&gt;He's fighting to save his child.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2010</published>
+        <work>
+          <id>6778696</id>
+          <uri>kca://work/amzn1.gr.work.v1.nVzBXEL7dQ9GB2D_IHzp2w</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">927979</id>
+        <isbn>0451461894</isbn>
+        <isbn13>9780451461896</isbn13>
+        <text_reviews_count type="integer">1834</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.PdFZzl3MsEdG-T3wQv1Jng</uri>
+        <title>Small Favor (The Dresden Files, #10)</title>
+        <title_without_series>Small Favor</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1298085176m/927979.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1298085176s/927979.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/927979.Small_Favor</link>
+        <num_pages>420</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>1</publication_day>
+        <publication_year>2008</publication_year>
+        <publication_month>4</publication_month>
+        <average_rating>4.44</average_rating>
+        <ratings_count>85852</ratings_count>
+        <description>&lt;b&gt;THE &lt;i&gt;New York Times&lt;/i&gt; Bestseller&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Harry Dresden's life finally seems to be calming down -- until a shadow from the past returns. Mab, monarch of the Sidhe Winter Court, calls in an old favor from Harry -- one small favor that will trap him between a nightmarish foe and an equally deadly ally, and that will strain his skills -- and loyalties -- to their very limits.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2008</published>
+        <work>
+          <id>2054834</id>
+          <uri>kca://work/amzn1.gr.work.v1.ra0cnT6pKJFau2JfnLWg4g</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">29396</id>
+        <isbn>044101268X</isbn>
+        <isbn13>9780441012688</isbn13>
+        <text_reviews_count type="integer">3164</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.1ObvHHZjj_W4l4VR6RCyTQ</uri>
+        <title>Furies of Calderon (Codex Alera, #1)</title>
+        <title_without_series>Furies of Calderon</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1329104514m/29396.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1329104514s/29396.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/29396.Furies_of_Calderon</link>
+        <num_pages>504</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Ace</publisher>
+        <publication_day>28</publication_day>
+        <publication_year>2005</publication_year>
+        <publication_month>6</publication_month>
+        <average_rating>4.13</average_rating>
+        <ratings_count>85984</ratings_count>
+        <description>For a thousand years, the people of Alera have united against the aggressive and threatening races that inhabit the world, using their unique bond with the furies - elementals of earth, air, fire, water, and metal. &lt;br /&gt;&lt;br /&gt;But now, Gaius Sextus, First Lord of Alera, grows old and lacks an heir. Ambitious High Lords plot and maneuver to place their Houses in positions of power, and a war of succession looms on the horizon. &lt;br /&gt;&lt;br /&gt;Far from city politics in the Calderon Valley, the boy Tavi struggles with his lack of furycrafting. At fifteen, he has no wind fury to help him fly, no fire fury to light his lamps. Yet as the Alerans' most savage enemy - the Marat - return to the Valley, he will discover that his destiny is much greater than he could ever imagine. &lt;br /&gt;&lt;br /&gt;Caught in a storm of deadly wind furies, Tavi saves the life of a runaway slave named Amara. But she is actually a spy for Gaius Sextus, sent to the Valley to gather intelligence on traitors to the Crown, who may be in league with the barbaric Marat horde. And when the Valley erupts in chaos - when rebels war with loyalists and furies clash with furies - Amara will find Tavi's courage and resourcefulness to be a power greater than any fury - one that could turn the tides of war.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2005</published>
+        <work>
+          <id>3098584</id>
+          <uri>kca://work/amzn1.gr.work.v1.ixEgYPe83w7ggDnNj8z5BQ</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">3475161</id>
+        <isbn>0451462564</isbn>
+        <isbn13>9780451462565</isbn13>
+        <text_reviews_count type="integer">2076</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.Ya5FijrGZPLFFkLGCC17KA</uri>
+        <title>Turn Coat (The Dresden Files, #11)</title>
+        <title_without_series>Turn Coat</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1304027128m/3475161.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1304027128s/3475161.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/3475161-turn-coat</link>
+        <num_pages>420</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>7</publication_day>
+        <publication_year>2009</publication_year>
+        <publication_month>4</publication_month>
+        <average_rating>4.45</average_rating>
+        <ratings_count>79076</ratings_count>
+        <description>Accused of treason against the Wizards of the White Council, Warden Morgan goes in search of Harry Dresden in a desperate attempt to clear his name and stop the deadly punishment from taking place in this latest thrilling addition to the Dresden Files series.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2009</published>
+        <work>
+          <id>3516480</id>
+          <uri>kca://work/amzn1.gr.work.v1.3DljCpfvVaf4R4MDnOKtLw</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">12216302</id>
+        <isbn>0451464400</isbn>
+        <isbn13>9780451464408</isbn13>
+        <text_reviews_count type="integer">3948</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.9no4qB4KwWQ8MsfexfCv-A</uri>
+        <title>Cold Days (The Dresden Files, #14)</title>
+        <title_without_series>Cold Days</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1345145377m/12216302.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1345145377s/12216302.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/12216302-cold-days</link>
+        <num_pages>515</num_pages>
+        <format>Hardcover</format>
+        <edition_information>1st Edition</edition_information>
+        <publisher>Penguin Group (USA)</publisher>
+        <publication_day>27</publication_day>
+        <publication_year>2012</publication_year>
+        <publication_month>11</publication_month>
+        <average_rating>4.51</average_rating>
+        <ratings_count>75721</ratings_count>
+        <description>You can't keep a good wizard down - even when he wants to stay that way.&lt;br /&gt;&lt;br /&gt;For years, Harry Dresden has been Chicago's only professional wizard, but a bargain made in desperation with the Queen of Air and Darkness has forced him into a new job: professional killer.&lt;br /&gt;&lt;br /&gt;Mab, the mother of wicked faeries, has restored the mostly-dead wizard to health, and dispatches him upon his first mission - to bring death to an immortal. Even as he grapples with the impossible task, Dresden learns of a looming danger to Demonreach, the living island hidden upon Lake Michigan, a place whose true purpose and dark potential have the potential to destroy billions and to land Dresden in the deepest trouble he has ever known - even deeper than being dead. How messed up is that?&lt;br /&gt;&lt;br /&gt;Beset by his new enemies and hounded by the old, Dresden has only twenty four hours to reconnect with his old allies, prevent a cataclysm and do the impossible - all while the power he bargained to get - but never meant to keep - lays siege to his very soul.&lt;br /&gt;&lt;br /&gt;Magic. It can get a guy killed.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2012</published>
+        <work>
+          <id>17189468</id>
+          <uri>kca://work/amzn1.gr.work.v1.R0e6QDl5FQ67C2AG3oG27g</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">8058301</id>
+        <isbn>045146379X</isbn>
+        <isbn13>9780451463791</isbn13>
+        <text_reviews_count type="integer">3447</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.ueQg6YPJOypcXSUqrOP70A</uri>
+        <title>Ghost Story (The Dresden Files,  #13)</title>
+        <title_without_series>Ghost Story</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1329104700m/8058301.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1329104700s/8058301.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/8058301-ghost-story</link>
+        <num_pages>481</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Roc Hardcover</publisher>
+        <publication_day>26</publication_day>
+        <publication_year>2011</publication_year>
+        <publication_month>7</publication_month>
+        <average_rating>4.25</average_rating>
+        <ratings_count>75920</ratings_count>
+        <description>When we last left the mighty wizard detective Harry Dresden, he wasn't doing well. In fact, he had been murdered by an unknown assassin.&lt;br /&gt;&lt;br /&gt;But being dead doesn't stop him when his friends are in danger. Except now he has no body, and no magic to help him. And there are also several dark spirits roaming the Chicago shadows who owe Harry some payback of their own.&lt;br /&gt;&lt;br /&gt;To save his friends—and his own soul—Harry will have to pull off the ultimate trick without any magic...</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2011</published>
+        <work>
+          <id>12731936</id>
+          <uri>kca://work/amzn1.gr.work.v1.ktf-Ee_z9mfQVEyofDO4Gw</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">19486421</id>
+        <isbn>0451464397</isbn>
+        <isbn13>9780451464392</isbn13>
+        <text_reviews_count type="integer">3740</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.RKuNIZ0ByH0D3YsxsrLg6g</uri>
+        <title>Skin Game (The Dresden Files, #15)</title>
+        <title_without_series>Skin Game</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1387236318m/19486421.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1387236318s/19486421.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/19486421-skin-game</link>
+        <num_pages>454</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>27</publication_day>
+        <publication_year>2014</publication_year>
+        <publication_month>5</publication_month>
+        <average_rating>4.56</average_rating>
+        <ratings_count>61890</ratings_count>
+        <description>Harry Dresden, Chicago's only professional wizard, is about to have a very bad day…&lt;br /&gt;&lt;br /&gt;Because as Winter Knight to the Queen of Air and Darkness, Harry never knows what the scheming Mab might want him to do. Usually, it’s something awful.&lt;br /&gt;&lt;br /&gt;He doesn’t know the half of it…&lt;br /&gt;&lt;br /&gt;Mab has just traded Harry’s skills to pay off one of her debts. And now he must help a group of supernatural villains—led by one of Harry’s most dreaded and despised enemies, Nicodemus Archleone—to break into the highest-security vault in town, so that they can then access the highest-security vault in the Nevernever. &lt;br /&gt;&lt;br /&gt;It's a smash and grab job to recover the literal Holy Grail from the vaults of the greatest treasure hoard in the supernatural world—which belongs to the one and only Hades, Lord of the freaking Underworld and generally unpleasant character. Worse, Dresden suspects that there is another game afoot that no one is talking about. And he's dead certain that Nicodemus has no intention of allowing any of his crew to survive the experience. Especially Harry.&lt;br /&gt;&lt;br /&gt;Dresden's always been tricky, but he's going to have to up his backstabbing game to survive this mess—assuming his own allies don’t end up killing him before his enemies get the chance…</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2014</published>
+        <work>
+          <id>23811929</id>
+          <uri>kca://work/amzn1.gr.work.v1.5P6VR42Gx53F6o2nKW7wWg</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">133664</id>
+        <isbn>0441013406</isbn>
+        <isbn13>9780441013401</isbn13>
+        <text_reviews_count type="integer">1306</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.TyskwgmndMhL2mqZJGqZpQ</uri>
+        <title>Academ's Fury (Codex Alera, #2)</title>
+        <title_without_series>Academ's Fury</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1381026900m/133664.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1381026900s/133664.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/133664.Academ_s_Fury</link>
+        <num_pages>702</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Ace</publisher>
+        <publication_day/>
+        <publication_year>2010</publication_year>
+        <publication_month>2</publication_month>
+        <average_rating>4.28</average_rating>
+        <ratings_count>55526</ratings_count>
+        <description>For centuries, the people of Alera have relied on the power of the furies to protect them from outside invaders. But the gravest threat might be closer than they think.&lt;br /&gt;&lt;br /&gt;Tavi has escaped the Calderon Valley and the mysterious attack of the Marat on his homeland. But he is far from safe, as trying to keep up the illusion of being a student while secretly training as one of the First Lord's spies is a dangerous game. And he has not yet learned to use the furies, making him especially vulnerable.&lt;br /&gt;&lt;br /&gt;When the attack comes it's on two fronts. A sudden strike threatens the First Lord's life and threatens to plunge the land into civil war. While in the Calderon Valley, the threat faced from the Marat is dwarfed by an ancient menace. And Tavi must learn to harness the furies if he has any chance of fighting the greatest threat Alera has ever known . . .</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2010</published>
+        <work>
+          <id>6614430</id>
+          <uri>kca://work/amzn1.gr.work.v1.AHv3O2s_ThdfYBFPSjkRhw</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">346087</id>
+        <isbn>0441015271</isbn>
+        <isbn13>9780441015276</isbn13>
+        <text_reviews_count type="integer">911</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.DBHHoHK2Ikbws8B7HvYOzw</uri>
+        <title>Captain's Fury (Codex Alera, #4)</title>
+        <title_without_series>Captain's Fury</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1315083292m/346087.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1315083292s/346087.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/346087.Captain_s_Fury</link>
+        <num_pages>451</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Ace Books</publisher>
+        <publication_day>4</publication_day>
+        <publication_year>2007</publication_year>
+        <publication_month>12</publication_month>
+        <average_rating>4.38</average_rating>
+        <ratings_count>53435</ratings_count>
+        <description>After two years of bitter conflict with the hordes of invading Canim, Tavi of Calderon, now Captain of the First Aleran Legion, realizes that a peril far greater than the Canim exists--the mysterious threat that drove the savage Canim to flee their homeland. &lt;br /&gt;&lt;br /&gt;Now, Tavi must find a way to overcome the centuries-old animosities between Aleran and Cane if an alliance is to be forged against their mutual enemy. And he must lead his legion in defiance of the law, against friend and foe--or no one will have a chance of survival . . .</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2007</published>
+        <work>
+          <id>6614434</id>
+          <uri>kca://work/amzn1.gr.work.v1.I6dqhdl46CWHg-bjRKyidg</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">29394</id>
+        <isbn>0441014348</isbn>
+        <isbn13>9780441014347</isbn13>
+        <text_reviews_count type="integer">1009</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.EK08yH8RVIN06CIDz0g18g</uri>
+        <title>Cursor's Fury (Codex Alera, #3)</title>
+        <title_without_series>Cursor's Fury</title_without_series>
+        <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+        <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/29394.Cursor_s_Fury</link>
+        <num_pages>442</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Ace Hardcover</publisher>
+        <publication_day>5</publication_day>
+        <publication_year>2006</publication_year>
+        <publication_month>12</publication_month>
+        <average_rating>4.37</average_rating>
+        <ratings_count>53392</ratings_count>
+        <description>The power-hungry High Lord of Kalare has launched a rebellion against the aging First Lord, Gaius Sextus, who with the loyal forces of Alera must fight beside the unlikeliest of allies-the equally contentious High Lord of Aquitaine. &lt;br /&gt;&lt;br /&gt;Meanwhile, young Tavi of Calderon joins a newly formed legion under an assumed name even as the ruthless Kalare unites with the Canim, bestial enemies of the realm whose vast numbers spell certain doom for Alera. &lt;br /&gt;&lt;br /&gt;When treachery from within destroys the army's command structure, Tavi finds himself leading an inexperienced, poorly equipped legion-the only force standing between the Canim horde and the war-torn realm.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2006</published>
+        <work>
+          <id>6614461</id>
+          <uri>kca://work/amzn1.gr.work.v1.rnBxJt_Kh8Qac3HshXoTpw</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">2903736</id>
+        <isbn>0441016383</isbn>
+        <isbn13>9780441016389</isbn13>
+        <text_reviews_count type="integer">790</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1._2g16waxDW75TgUrOVh2aw</uri>
+        <title>Princeps' Fury (Codex Alera, #5)</title>
+        <title_without_series>Princeps' Fury</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1315082776m/2903736.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1315082776s/2903736.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/2903736-princeps-fury</link>
+        <num_pages>386</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Ace Books</publisher>
+        <publication_day>25</publication_day>
+        <publication_year>2008</publication_year>
+        <publication_month>11</publication_month>
+        <average_rating>4.36</average_rating>
+        <ratings_count>53176</ratings_count>
+        <description>Tavi of Calderon, now recognized as Princeps Gaius Octavian and heir to the crown, has achieved a fragile alliance with Alera’s oldest foes, the savage Canim. But when Tavi and his legions guide the Canim safely to their lands, his worst fears are realized.&lt;br /&gt;&lt;br /&gt;The dreaded Vord—the enemy of Aleran and Cane alike—have spent the last three years laying waste to the Canim homeland. And when the Alerans are cut off from their ships, they find themselves with no choice but to fight shoulder to shoulder if they are to survive.&lt;br /&gt;&lt;br /&gt;For a thousand years, Alera and her furies have withstood every enemy, and survived every foe.&lt;br /&gt;&lt;br /&gt;The thousand years are over…</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2008</published>
+        <work>
+          <id>2930878</id>
+          <uri>kca://work/amzn1.gr.work.v1.uo5GbgiS8bFFP9nLMdXsNg</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">6316821</id>
+        <isbn>044101769X</isbn>
+        <isbn13>9780441017690</isbn13>
+        <text_reviews_count type="integer">1221</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.dRRl5Nt8tovxCLEdOk5Cpw</uri>
+        <title>First Lord's Fury (Codex Alera, #6)</title>
+        <title_without_series>First Lord's Fury</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1327903582m/6316821.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1327903582s/6316821.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/6316821-first-lord-s-fury</link>
+        <num_pages>465</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Ace Books</publisher>
+        <publication_day>24</publication_day>
+        <publication_year>2009</publication_year>
+        <publication_month>11</publication_month>
+        <average_rating>4.38</average_rating>
+        <ratings_count>52099</ratings_count>
+        <description>For Gaius Octavian, life has been one long battle. Now, the end of all he fought for is close at hand. The brutal, dreaded Vord are on the march against Alera. And perhaps for the final time, Gaius Octavian and his legions must stand against the enemies of his people. And it will take all his intelligence, ingenuity, and furycraft to save their world from eternal darkness.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2009</published>
+        <work>
+          <id>6502096</id>
+          <uri>kca://work/amzn1.gr.work.v1.kmX1A0tSDV9pgi3AKfng8Q</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">7779059</id>
+        <isbn>045146365X</isbn>
+        <isbn13>9780451463654</isbn13>
+        <text_reviews_count type="integer">1648</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.mCf4HdJ9FQajcbCKbYi3MA</uri>
+        <title>Side Jobs: Stories from the Dresden Files (The Dresden Files, #12.5)</title>
+        <title_without_series>Side Jobs: Stories from the Dresden Files</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1269115846m/7779059.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1269115846s/7779059.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/7779059-side-jobs</link>
+        <num_pages>418</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>26</publication_day>
+        <publication_year>2010</publication_year>
+        <publication_month>10</publication_month>
+        <average_rating>4.25</average_rating>
+        <ratings_count>43075</ratings_count>
+        <description>Here, together for the first time, are the shorter from Jim Butcher's DRESDEN FILES series — a compendium of cases that Harry and his cadre of allies managed to close in record time. The tales range from the deadly serious to the absurdly hilarious. Also included is a new, never-before-published novella that takes place after the cliff-hanger ending of the new April 2010 hardcover, &lt;i&gt;Changes&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Contains:&lt;br /&gt;+ "Restoration of Faith"&lt;br /&gt;+ "Vignette"&lt;br /&gt;+ "Something Borrowed" -- from &lt;em&gt;
+  &lt;a href="https://www.goodreads.com/book/show/84156.My_Big_Fat_Supernatural_Wedding" title="My Big Fat Supernatural Wedding" rel="nofollow"&gt;My Big Fat Supernatural Wedding&lt;/a&gt;
+&lt;/em&gt;&lt;br /&gt;+ "It's My Birthday Too" -- from &lt;em&gt;
+  &lt;a href="https://www.goodreads.com/book/show/140098.Many_Bloody_Returns" title="Many Bloody Returns" rel="nofollow"&gt;Many Bloody Returns&lt;/a&gt;
+&lt;/em&gt;&lt;br /&gt;+ "Heorot" -- from &lt;em&gt;
+  &lt;a href="https://www.goodreads.com/book/show/1773616.My_Big_Fat_Supernatural_Honeymoon" title="My Big Fat Supernatural Honeymoon" rel="nofollow"&gt;My Big Fat Supernatural Honeymoon&lt;/a&gt;
+&lt;/em&gt;&lt;br /&gt;+ "Day Off" -- from &lt;em&gt;
+  &lt;a href="https://www.goodreads.com/book/show/2871256.Blood_Lite" title="Blood Lite" rel="nofollow"&gt;Blood Lite&lt;/a&gt;
+&lt;/em&gt;&lt;br /&gt;+ "&lt;a href="https://www.goodreads.com/book/show/2575572.Backup" title="Backup" rel="nofollow"&gt;Backup&lt;/a&gt;" -- novelette from Thomas' point of view, originally published by Subterranean Press&lt;br /&gt;+ "The Warrior" -- novelette from &lt;em&gt;
+  &lt;a href="https://www.goodreads.com/book/show/3475145.Mean_Streets" title="Mean Streets" rel="nofollow"&gt;Mean Streets&lt;/a&gt;
+&lt;/em&gt;&lt;br /&gt;+ "Last Call" -- from &lt;em&gt;
+  &lt;a href="https://www.goodreads.com/book/show/6122181.Strange_Brew" title="Strange Brew" rel="nofollow"&gt;Strange Brew&lt;/a&gt;
+&lt;/em&gt;&lt;br /&gt;+ "Love Hurts" -- from &lt;em&gt;
+  &lt;a href="https://www.goodreads.com/book/show/7841656.Songs_of_Love_and_Death" title="Songs of Love and Death" rel="nofollow"&gt;Songs of Love and Death&lt;/a&gt;
+&lt;/em&gt;&lt;br /&gt;+ &lt;em&gt;Aftermath&lt;/em&gt; -- all-new novella from Murphy's point of view, set forty-five minutes after the end of &lt;em&gt;
+  &lt;a href="https://www.goodreads.com/book/show/6585201.Changes" title="Changes" rel="nofollow"&gt;Changes&lt;/a&gt;
+&lt;/em&gt;</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2010</published>
+        <work>
+          <id>10351697</id>
+          <uri>kca://work/amzn1.gr.work.v1._eB3HhQuQcs99YUvsHgQ1w</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">24876258</id>
+        <isbn>0451466802</isbn>
+        <isbn13>9780451466808</isbn13>
+        <text_reviews_count type="integer">3198</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.Y_Td1RKhqxQmtssNPuP-lw</uri>
+        <title>The Aeronaut's Windlass (The Cinder Spires, #1)</title>
+        <title_without_series>The Aeronaut's Windlass</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1425415066m/24876258.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1425415066s/24876258.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/24876258-the-aeronaut-s-windlass</link>
+        <num_pages>630</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day>29</publication_day>
+        <publication_year>2015</publication_year>
+        <publication_month>9</publication_month>
+        <average_rating>4.18</average_rating>
+        <ratings_count>32841</ratings_count>
+        <description>Jim Butcher, the #1 New York Times bestselling author of The Dresden Files and the Codex Alera novels, conjures up a new series set in a fantastic world of noble families, steam-powered technology, and magic-wielding warriors…&lt;br /&gt;&lt;br /&gt;Since time immemorial, the Spires have sheltered humanity, towering for miles over the mist-shrouded surface of the world. Within their halls, aristocratic houses have ruled for generations, developing scientific marvels, fostering trade alliances, and building fleets of airships to keep the peace.&lt;br /&gt;&lt;br /&gt;Captain Grimm commands the merchant ship, &lt;i&gt;Predator&lt;/i&gt;. Fiercely loyal to Spire Albion, he has taken their side in the cold war with Spire Aurora, disrupting the enemy’s shipping lines by attacking their cargo vessels. But when the &lt;i&gt;Predator&lt;/i&gt; is severely damaged in combat, leaving captain and crew grounded, Grimm is offered a proposition from the Spirearch of Albion—to join a team of agents on a vital mission in exchange for fully restoring &lt;i&gt;Predator&lt;/i&gt; to its fighting glory.&lt;br /&gt;&lt;br /&gt;And even as Grimm undertakes this dangerous task, he will learn that the conflict between the Spires is merely a premonition of things to come. Humanity’s ancient enemy, silent for more than ten thousand years, has begun to stir once more. And death will follow in its wake…</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2015</published>
+        <work>
+          <id>24239884</id>
+          <uri>kca://work/amzn1.gr.work.v1.pV-V3ndPRENP6PgqOhK9UA</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">2637138</id>
+        <isbn>0345507460</isbn>
+        <isbn13>9780345507464</isbn13>
+        <text_reviews_count type="integer">524</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.z-hA4xp2jCSG9iMO5maCpA</uri>
+        <title>Welcome to the Jungle</title>
+        <title_without_series>Welcome to the Jungle</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1320418408m/2637138.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1320418408s/2637138.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/2637138-welcome-to-the-jungle</link>
+        <num_pages>168</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Del Rey/Dabel Brothers</publisher>
+        <publication_day>21</publication_day>
+        <publication_year>2008</publication_year>
+        <publication_month>10</publication_month>
+        <average_rating>4.10</average_rating>
+        <ratings_count>14860</ratings_count>
+        <description>When the supernatural world spins out of control, when the police can’t handle what goes bump in the night, when monsters come screaming out of nightmares and into the mean streets, there’s just one man to call: Harry Dresden, the only professional wizard in the Chicago phone book. A police consultant and private investigator, Dresden has to walk the dangerous line between the world of night and the light of day.&lt;br /&gt;&lt;br /&gt;Now Harry Dresden is investigating a brutal mauling at the Lincoln Park Zoo that has left a security guard dead and many questions unanswered. As an investigator of the supernatural, he senses that there’s more to this case than a simple animal attack, and as Dresden searches for clues to figure out who is really behind the crime, he finds himself next on the victim list, and being hunted by creatures that won’t leave much more than a stain if they catch him.&lt;br /&gt;&lt;br /&gt;Written exclusively for comics by Jim Butcher, The Dresden Files: Welcome to the Jungle is a brand-new story that’s sure to enchant readers with a blend of gripping mystery and fantastic adventure.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2008</published>
+        <work>
+          <id>2661857</id>
+          <uri>kca://work/amzn1.gr.work.v1.J436jPrmdd3OxUiTbO0IxA</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">4961959</id>
+        <isbn>0345506391</isbn>
+        <isbn13>9780345506399</isbn13>
+        <text_reviews_count type="integer">222</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.E6FOMQID-lWg8BUXlEcjFw</uri>
+        <title>Jim Butcher's The Dresden Files: Storm Front, Volume 1: The Gathering Storm</title>
+        <title_without_series>Jim Butcher's The Dresden Files: Storm Front, Volume 1: The Gathering Storm</title_without_series>
+        <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+        <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/4961959-jim-butcher-s-the-dresden-files</link>
+        <num_pages>128</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Del Rey/Dabel Brothers</publisher>
+        <publication_day>2</publication_day>
+        <publication_year>2009</publication_year>
+        <publication_month>6</publication_month>
+        <average_rating>4.36</average_rating>
+        <ratings_count>12318</ratings_count>
+        <description>A graphic novel based on the bestselling Harry Dresden books by Jim Butcher!&lt;br /&gt;&lt;br /&gt;If circumstances surrounding a crime defy the ordinary and evidence points to a suspect who is anything but human, the men and women of the Chicago Police Department call in the one guy who can handle bizarre and often brutal phenomena. Harry Dresden is a wizard who knows firsthand that the everyday world is actually full of strange and magical things—most of which don't play well with humans.&lt;br /&gt;&lt;br /&gt;Now the cops have turned to Dresden to investigate a horrifying double murder that was committed with black magic. Never one to turn down a paycheck, Dresden also takes on another case—to find a missing husband who has quite likely been dabbling in sorcery. As Dresden tries to solve the seemingly unrelated cases, he is confronted with all the Windy City can blow at him, from the mob to mages and all creatures in between.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2009</published>
+        <work>
+          <id>6793325</id>
+          <uri>kca://work/amzn1.gr.work.v1.j0sL7NGzOwY_IctjshgV6A</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">12183815</id>
+        <isbn>0451492129</isbn>
+        <isbn13>9780451492128</isbn13>
+        <text_reviews_count type="integer">792</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.kHuunp3HdN7TvomcUGODrQ</uri>
+        <title>Brief Cases (The Dresden Files, #15.1)</title>
+        <title_without_series>Brief Cases</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1513644037m/12183815.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1513644037s/12183815.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/12183815-brief-cases</link>
+        <num_pages>516</num_pages>
+        <format>ebook</format>
+        <edition_information/>
+        <publisher>Ace</publisher>
+        <publication_day>5</publication_day>
+        <publication_year>2018</publication_year>
+        <publication_month>6</publication_month>
+        <average_rating>4.42</average_rating>
+        <ratings_count>8984</ratings_count>
+        <description>&lt;i&gt;Brief Cases&lt;/i&gt; is the sequel anthology of &lt;i&gt;Side Jobs&lt;/i&gt;, and will be released before &lt;i&gt;Peace Talks&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Set to include the following stories:&lt;br /&gt;&lt;br /&gt;An exclusive novellette from the perspective of Maggie and Mouse.&lt;br /&gt;&lt;br /&gt;“Curses” — from The Naked City, edited by Ellen Datlow&lt;br /&gt;Takes place between Small Favor and Turn Coat.&lt;br /&gt;&lt;br /&gt;“AAAA Wizardry” — from the Dresden Files RPG, published by Evil Hat&lt;br /&gt;Harry teaches a group of young Wardens his procedure for dealing with supernatural nasties.&lt;br /&gt;&lt;br /&gt;“Even Hand” — originally from Dark and Stormy Knights, edited by Pat Elrod. Reprinted in Beyond the Pale, edited by Henry Herz.&lt;br /&gt;Gentleman Johnnie Marcone clashes with a rival supernatural power. Told from Marcone’s point of view.&lt;br /&gt;Takes place between Turn Coat and Changes.&lt;br /&gt;&lt;br /&gt;“B is for Bigfoot” — from Under My Hat: Tales From the Cauldron, edited by Jonathan Strahan. Republished in Working for Bigfoot.&lt;br /&gt;Takes place between Fool Moon and Grave Peril.&lt;br /&gt;&lt;br /&gt;“I Was A Teenage Bigfoot” — from Blood Lite 3: Aftertaste, edited by Kevin J. Anderson. Republished in Working for Bigfoot.&lt;br /&gt;Takes place circa Dead Beat.&lt;br /&gt;&lt;br /&gt;“Bigfoot on Campus” — from Hex Appeal, edited by P.N. Elrod. Republished in Working for Bigfoot.&lt;br /&gt;Takes place between Turn Coat and Changes.&lt;br /&gt;&lt;br /&gt;“Bombshells” — Molly-POV novella from Dangerous Women, edited by George R. R. Martin and Gardner Duzois.&lt;br /&gt;Molly teams up with Justine and Andi to thwart a Fomor plot.&lt;br /&gt;Takes place between Ghost Story and Cold Days.&lt;br /&gt;&lt;br /&gt;“Jury Duty” — short story for Unbound, edited by Shawn Speakman.&lt;br /&gt;Harry endures Jury Duty.&lt;br /&gt;Set after Skin Game.&lt;br /&gt;&lt;br /&gt;“Cold Case” — short story from Shadowed Souls, edited by Jim Butcher and Kerrie Hughes.&lt;br /&gt;In Molly’s first job in her new role, she teams up with Ramirez to take on a Lovecraft-esque cult.&lt;br /&gt;Takes place shortly after Cold Days.&lt;br /&gt;&lt;br /&gt;“Day One” — short story for Unfettered II, edited by Shawn Speakman.&lt;br /&gt;Butters’ first mission.&lt;br /&gt;Set after Skin Game.&lt;br /&gt;&lt;br /&gt;“A Fistful of Warlocks” — short story for Straight Outta Tombstone, edited by David Boop.&lt;br /&gt;Luccio takes on necromancers in the Wild West.&lt;br /&gt;Set long before the events of the series.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2018</published>
+        <work>
+          <id>17155691</id>
+          <uri>kca://work/amzn1.gr.work.v1.GbUVM_9aCBX7QesV7lXBkQ</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">3475145</id>
+        <isbn>0451462491</isbn>
+        <isbn13>9780451462497</isbn13>
+        <text_reviews_count type="integer">385</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.VTbBwy2gtNiYWCdwws7f8Q</uri>
+        <title>Mean Streets</title>
+        <title_without_series>Mean Streets</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1303858861m/3475145.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1303858861s/3475145.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/3475145-mean-streets</link>
+        <num_pages>342</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Roc</publisher>
+        <publication_day/>
+        <publication_year>2009</publication_year>
+        <publication_month>1</publication_month>
+        <average_rating>4.01</average_rating>
+        <ratings_count>9310</ratings_count>
+        <description>Jim Butcher delivers a hard-boiled tale in which Harry Dresden’s latest case may be his last.&lt;br /&gt;&lt;br /&gt;Nightside dweller John Taylor is hired by a woman to find something she lost—her memory—in a noir tale from Simon R. Green.&lt;br /&gt;&lt;br /&gt;Kat Richardson’s Greywalker finds herself in too deep when a “simple job” goes bad and Harper Blaine is enmeshed in a tangle of dark secrets and revenge from beyond the grave.&lt;br /&gt;&lt;br /&gt;For centuries, the being that we know as Noah lived among us. Now he is dead, and fallen-angel-turned-detective Remy Chandler has been hired to find out who killed him in a whodunit by Thomas E. Sniegoski.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2009</published>
+        <work>
+          <id>4488907</id>
+          <uri>kca://work/amzn1.gr.work.v1.kXwnaG6RAM8qByjzUf2z1g</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">2575572</id>
+        <isbn>1596061820</isbn>
+        <isbn13>9781596061828</isbn13>
+        <text_reviews_count type="integer">435</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.E8skjhHfX4yn8Y-TeqbkYA</uri>
+        <title>Backup (The Dresden Files, #10.4)</title>
+        <title_without_series>Backup</title_without_series>
+        <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+        <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/2575572-backup</link>
+        <num_pages>70</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Subterranean Press</publisher>
+        <publication_day>1</publication_day>
+        <publication_year>2008</publication_year>
+        <publication_month>10</publication_month>
+        <average_rating>4.12</average_rating>
+        <ratings_count>8813</ratings_count>
+        <description>Let's get something clear right up front. I'm not Harry Dresden. Harry's a wizard. A genuine, honest-to-goodness wizard. He's Gandalf on crack and an IV of Red Bull, with a big leather coat and a .44 revolver in his pocket. He'll spit in the eye of gods and demons alike if he thinks it needs to be done, and to hell with the consequences--and yet somehow my little brother manages to remain a decent human being. I'll be damned if I know how. But then, I'll be damned regardless. My name is Thomas Raith, and I'm a monster. So begins "Backup" a twelve thousand word novelette set in Jim Butcher's ultra-popular Dresden Files series. This time Harry's in trouble he knows nothing about, and it's up to his big brother Thomas to track him down and solve those little life-threatening difficulties without his little brother even noticing.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Also in &lt;a href="https://www.goodreads.com/book/show/7779059._Side_Jobs" title=" Side Jobs" rel="nofollow"&gt; Side Jobs&lt;/a&gt;.&lt;/i&gt;</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2008</published>
+        <work>
+          <id>2588518</id>
+          <uri>kca://work/amzn1.gr.work.v1.Saj5OvKlPlONhqrMq7TBbQ</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">25807691</id>
+        <isbn nil="true"/>
+        <isbn13 nil="true"/>
+        <text_reviews_count type="integer">432</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.6esChEqPFXcB8cmp7vVh2Q</uri>
+        <title>Working for Bigfoot (The Dresden Files, #15.5)</title>
+        <title_without_series>Working for Bigfoot</title_without_series>
+        <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+        <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/25807691-working-for-bigfoot</link>
+        <num_pages>136</num_pages>
+        <format/>
+        <edition_information/>
+        <publisher/>
+        <publication_day/>
+        <publication_year/>
+        <publication_month/>
+        <average_rating>4.26</average_rating>
+        <ratings_count>6905</ratings_count>
+        <description>"B is for Bigfoot" takes place between &lt;i&gt;Fool Moon&lt;/i&gt; and &lt;i&gt;Grave Peril&lt;/i&gt;. &lt;br /&gt;"I Was a Teenage Bigfoot" takes place circa &lt;i&gt;Deadbeat&lt;/i&gt;. &lt;br /&gt;"Bigfoot on Campus" takes place between &lt;i&gt;Turn Coat&lt;/i&gt; and &lt;i&gt;Changes&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Chicago wizard-for-hire Harry Dresden is used to mysterious clients with long hair and legs up to here. But when it turns out the long hair covers every square inch of his latest client’s body, and the legs contribute to a nine-foot height, even the redoubtable detective realizes he’s treading new ground. Strength of a River in His Shoulders is one of the legendary forest people, a Bigfoot, and he has a problem that only Harry can solve. His son Irwin is a scion, the child of a supernatural creature and a human. He’s a good kid, but the extraordinary strength of his magical aura has a way of attracting trouble.&lt;br /&gt;&lt;br /&gt;In the three novellas that make up Working For Bigfoot, collected together for the first time here, readers encounter Dresden at different points in his storied career, and in Irwin’s life. As a middle-schooler, in “B Is for Bigfoot,” Irwin attracts the unwelcome attention of a pair of bullying brothers who are more than they seem, and when Harry steps in, it turns out they have a mystical guardian of their own. At a fancy private high school in “I Was a Teenage Bigfoot,” Harry is called in when Irwin grows ill for the first time, and it’s not just a case of mono. Finally, Irwin is all grown up and has a grown-up’s typical problems as a freshman in college in “Bigfoot on Campus,” or would have if typical included vampires.</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published/>
+        <work>
+          <id>45866226</id>
+          <uri>kca://work/amzn1.gr.work.v1.QbDfzt1GG_Mjne9xbJhr2A</uri>
+        </work>
+      </book>
+      <book>
+        <id type="integer">15732549</id>
+        <isbn nil="true"/>
+        <isbn13 nil="true"/>
+        <text_reviews_count type="integer">166</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.u_eizeS63oObhbjMnEiU6A</uri>
+        <title>Restoration of Faith (The Dresden Files, #0.2)</title>
+        <title_without_series>Restoration of Faith</title_without_series>
+        <image_url>https://images.gr-assets.com/books/1483723101m/15732549.jpg</image_url>
+        <small_image_url>https://images.gr-assets.com/books/1483723101s/15732549.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/15732549-restoration-of-faith</link>
+        <num_pages>12</num_pages>
+        <format>ebook</format>
+        <edition_information>Free Online Read</edition_information>
+        <publisher/>
+        <publication_day/>
+        <publication_year>2004</publication_year>
+        <publication_month/>
+        <average_rating>4.00</average_rating>
+        <ratings_count>3594</ratings_count>
+        <description>A short story of the Dresden Files.&lt;br /&gt;&lt;br /&gt;(Also included in &lt;a href="https://www.goodreads.com/book/show/7779059.Side_Jobs" title="Side Jobs" rel="nofollow"&gt;Side Jobs&lt;/a&gt;)</description>
+        <authors>
+          <author>
+            <id>10746</id>
+            <name>Jim Butcher</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+            <average_rating>4.27</average_rating>
+            <ratings_count>2192982</ratings_count>
+            <text_reviews_count>90699</text_reviews_count>
+          </author>
+        </authors>
+        <published>2004</published>
+        <work>
+          <id>21413304</id>
+          <uri>kca://work/amzn1.gr.work.v1.E4LV4_e-dBtHOec6FMuz2A</uri>
+        </work>
+      </book>
+    </books>
+  </author>
+</GoodreadsResponse>

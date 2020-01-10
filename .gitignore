@@ -1,0 +1,17 @@
+/gcal
+/build
+/dist
+/vendor
+/.autoenv.zsh
+/.autoenv_leave.zsh
+/*_private.go
+/tags
+
+# vim turds
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+*~
+/tags
+*.private

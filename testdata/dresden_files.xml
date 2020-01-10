@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<GoodreadsResponse>
+	<Request>
+	<authentication>true</authentication>
+	<key><![CDATA[YVABuJSFNNFq65uTzRA8Nw]]></key>
+	<method><![CDATA[search_index]]></method>
+	</Request>
+	<search>
+	<query><![CDATA[dresden files]]></query>
+	<results-start>1</results-start>
+	<results-end>20</results-end>
+	<total-results>164</total-results>
+	<source>Goodreads</source>
+	<query-time-seconds>0.21</query-time-seconds>
+	<results>
+	<work>
+	<id type="integer">1137060</id>
+	<books_count type="integer">81</books_count>
+	<ratings_count type="integer">245601</ratings_count>
+	<text_reviews_count type="integer">13490</text_reviews_count>
+	<original_publication_year type="integer">2000</original_publication_year>
+	<original_publication_month type="integer">4</original_publication_month>
+	<original_publication_day type="integer">1</original_publication_day>
+	<average_rating>4.02</average_rating>
+	<best_book type="Book">
+	<id type="integer">47212</id>
+	<title>Storm Front (The Dresden Files, #1)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1419456275m/47212.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1419456275s/47212.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">6778696</id>
+	<books_count type="integer">22</books_count>
+	<ratings_count type="integer">81879</ratings_count>
+	<text_reviews_count type="integer">3570</text_reviews_count>
+	<original_publication_year type="integer">2010</original_publication_year>
+	<original_publication_month type="integer">4</original_publication_month>
+	<original_publication_day type="integer">6</original_publication_day>
+	<average_rating>4.54</average_rating>
+	<best_book type="Book">
+	<id type="integer">6585201</id>
+	<title>Changes (The Dresden Files, #12)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1304027244m/6585201.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1304027244s/6585201.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">855288</id>
+	<books_count type="integer">68</books_count>
+	<ratings_count type="integer">136136</ratings_count>
+	<text_reviews_count type="integer">5928</text_reviews_count>
+	<original_publication_year type="integer">2001</original_publication_year>
+	<original_publication_month type="integer">1</original_publication_month>
+	<original_publication_day type="integer">1</original_publication_day>
+	<average_rating>4.03</average_rating>
+	<best_book type="Book">
+	<id type="integer">91477</id>
+	<title>Fool Moon (The Dresden Files, #2)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1507307616m/91477.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1507307616s/91477.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">10351697</id>
+	<books_count type="integer">19</books_count>
+	<ratings_count type="integer">42028</ratings_count>
+	<text_reviews_count type="integer">1878</text_reviews_count>
+	<original_publication_year type="integer">2010</original_publication_year>
+	<original_publication_month type="integer">10</original_publication_month>
+	<original_publication_day type="integer">26</original_publication_day>
+	<average_rating>4.25</average_rating>
+	<best_book type="Book">
+	<id type="integer">7779059</id>
+	<title>Side Jobs: Stories from the Dresden Files (The Dresden Files, #12.5)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1269115846m/7779059.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1269115846s/7779059.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">803205</id>
+	<books_count type="integer">3</books_count>
+	<ratings_count type="integer">118000</ratings_count>
+	<text_reviews_count type="integer">4440</text_reviews_count>
+	<original_publication_year type="integer">2001</original_publication_year>
+	<original_publication_month type="integer">9</original_publication_month>
+	<original_publication_day type="integer">1</original_publication_day>
+	<average_rating>4.18</average_rating>
+	<best_book type="Book">
+	<id type="integer">91476</id>
+	<title>Grave Peril (The Dresden Files, #3)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1266470209m/91476.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1266470209s/91476.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">912988</id>
+	<books_count type="integer">3</books_count>
+	<ratings_count type="integer">108922</ratings_count>
+	<text_reviews_count type="integer">3521</text_reviews_count>
+	<original_publication_year type="integer">2002</original_publication_year>
+	<original_publication_month type="integer">9</original_publication_month>
+	<original_publication_day type="integer">3</original_publication_day>
+	<average_rating>4.30</average_rating>
+	<best_book type="Book">
+	<id type="integer">91478</id>
+	<title>Summer Knight (The Dresden Files, #4)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1345557469m/91478.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1345557469s/91478.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">2183</id>
+	<books_count type="integer">1</books_count>
+	<ratings_count type="integer">100343</ratings_count>
+	<text_reviews_count type="integer">2800</text_reviews_count>
+	<original_publication_year type="integer">2003</original_publication_year>
+	<original_publication_month type="integer">8</original_publication_month>
+	<original_publication_day type="integer">1</original_publication_day>
+	<average_rating>4.32</average_rating>
+	<best_book type="Book">
+	<id type="integer">91479</id>
+	<title>Death Masks (The Dresden Files, #5)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1345557713m/91479.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1345557713s/91479.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">227172</id>
+	<books_count type="integer">7</books_count>
+	<ratings_count type="integer">95186</ratings_count>
+	<text_reviews_count type="integer">2565</text_reviews_count>
+	<original_publication_year type="integer">2004</original_publication_year>
+	<original_publication_month type="integer">8</original_publication_month>
+	<original_publication_day type="integer">1</original_publication_day>
+	<average_rating>4.33</average_rating>
+	<best_book type="Book">
+	<id type="integer">99383</id>
+	<title>Blood Rites (The Dresden Files, #6)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1345557965m/99383.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1345557965s/99383.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">6614452</id>
+	<books_count type="integer">31</books_count>
+	<ratings_count type="integer">92590</ratings_count>
+	<text_reviews_count type="integer">2956</text_reviews_count>
+	<original_publication_year type="integer">2005</original_publication_year>
+	<original_publication_month type="integer">5</original_publication_month>
+	<original_publication_day type="integer">3</original_publication_day>
+	<average_rating>4.44</average_rating>
+	<best_book type="Book">
+	<id type="integer">17683</id>
+	<title>Dead Beat (The Dresden Files, #7)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1345667776m/17683.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1345667776s/17683.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">1254936</id>
+	<books_count type="integer">35</books_count>
+	<ratings_count type="integer">89988</ratings_count>
+	<text_reviews_count type="integer">2082</text_reviews_count>
+	<original_publication_year type="integer">2007</original_publication_year>
+	<original_publication_month type="integer">4</original_publication_month>
+	<original_publication_day type="integer">3</original_publication_day>
+	<average_rating>4.41</average_rating>
+	<best_book type="Book">
+	<id type="integer">91475</id>
+	<title>White Night (The Dresden Files, #9)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1309552288m/91475.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1309552288s/91475.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">576222</id>
+	<books_count type="integer">32</books_count>
+	<ratings_count type="integer">88957</ratings_count>
+	<text_reviews_count type="integer">2356</text_reviews_count>
+	<original_publication_year type="integer">2006</original_publication_year>
+	<original_publication_month type="integer">2</original_publication_month>
+	<original_publication_day type="integer">1</original_publication_day>
+	<average_rating>4.42</average_rating>
+	<best_book type="Book">
+	<id type="integer">91474</id>
+	<title>Proven Guilty (The Dresden Files, #8)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1345667469m/91474.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1345667469s/91474.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">2054834</id>
+	<books_count type="integer">32</books_count>
+	<ratings_count type="integer">83938</ratings_count>
+	<text_reviews_count type="integer">2163</text_reviews_count>
+	<original_publication_year type="integer">2008</original_publication_year>
+	<original_publication_month type="integer">4</original_publication_month>
+	<original_publication_day type="integer">1</original_publication_day>
+	<average_rating>4.44</average_rating>
+	<best_book type="Book">
+	<id type="integer">927979</id>
+	<title>Small Favor (The Dresden Files, #10)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1298085176m/927979.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1298085176s/927979.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">3516480</id>
+	<books_count type="integer">31</books_count>
+	<ratings_count type="integer">77155</ratings_count>
+	<text_reviews_count type="integer">2384</text_reviews_count>
+	<original_publication_year type="integer">2009</original_publication_year>
+	<original_publication_month type="integer">4</original_publication_month>
+	<original_publication_day type="integer">7</original_publication_day>
+	<average_rating>4.45</average_rating>
+	<best_book type="Book">
+	<id type="integer">3475161</id>
+	<title>Turn Coat (The Dresden Files, #11)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1304027128m/3475161.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1304027128s/3475161.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">12731936</id>
+	<books_count type="integer">27</books_count>
+	<ratings_count type="integer">74008</ratings_count>
+	<text_reviews_count type="integer">3896</text_reviews_count>
+	<original_publication_year type="integer">2011</original_publication_year>
+	<original_publication_month type="integer">1</original_publication_month>
+	<original_publication_day type="integer">1</original_publication_day>
+	<average_rating>4.25</average_rating>
+	<best_book type="Book">
+	<id type="integer">8058301</id>
+	<title>Ghost Story (The Dresden Files,  #13)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1329104700m/8058301.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1329104700s/8058301.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">17189468</id>
+	<books_count type="integer">21</books_count>
+	<ratings_count type="integer">73715</ratings_count>
+	<text_reviews_count type="integer">4376</text_reviews_count>
+	<original_publication_year type="integer">2012</original_publication_year>
+	<original_publication_month type="integer">11</original_publication_month>
+	<original_publication_day type="integer">27</original_publication_day>
+	<average_rating>4.51</average_rating>
+	<best_book type="Book">
+	<id type="integer">12216302</id>
+	<title>Cold Days (The Dresden Files, #14)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1345145377m/12216302.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1345145377s/12216302.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">23811929</id>
+	<books_count type="integer">3</books_count>
+	<ratings_count type="integer">59866</ratings_count>
+	<text_reviews_count type="integer">4235</text_reviews_count>
+	<original_publication_year type="integer">2014</original_publication_year>
+	<original_publication_month type="integer">5</original_publication_month>
+	<original_publication_day type="integer">27</original_publication_day>
+	<average_rating>4.56</average_rating>
+	<best_book type="Book">
+	<id type="integer">19486421</id>
+	<title>Skin Game (The Dresden Files, #15)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1387236318m/19486421.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1387236318s/19486421.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">2588518</id>
+	<books_count type="integer">1</books_count>
+	<ratings_count type="integer">8682</ratings_count>
+	<text_reviews_count type="integer">429</text_reviews_count>
+	<original_publication_year type="integer">2008</original_publication_year>
+	<original_publication_month type="integer">10</original_publication_month>
+	<original_publication_day type="integer">31</original_publication_day>
+	<average_rating>4.12</average_rating>
+	<best_book type="Book">
+	<id type="integer">2575572</id>
+	<title>Backup (The Dresden Files, #10.4)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+	<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">40515430</id>
+	<books_count type="integer">2</books_count>
+	<ratings_count type="integer">796</ratings_count>
+	<text_reviews_count type="integer">31</text_reviews_count>
+	<original_publication_year type="integer" nil="true"/>
+	<original_publication_month type="integer" nil="true"/>
+	<original_publication_day type="integer" nil="true"/>
+	<average_rating>4.44</average_rating>
+	<best_book type="Book">
+	<id type="integer">22249640</id>
+	<title>Peace Talks (The Dresden Files, #16)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+	<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">4319010</id>
+	<books_count type="integer">4</books_count>
+	<ratings_count type="integer">2923</ratings_count>
+	<text_reviews_count type="integer">102</text_reviews_count>
+	<original_publication_year type="integer">2008</original_publication_year>
+	<original_publication_month type="integer" nil="true"/>
+	<original_publication_day type="integer" nil="true"/>
+	<average_rating>4.06</average_rating>
+	<best_book type="Book">
+	<id type="integer">4271488</id>
+	<title>Vignette (The Dresden Files, #5.5)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1476229870m/4271488.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1476229870s/4271488.jpg</small_image_url>
+	</best_book>
+	</work>
+
+	<work>
+	<id type="integer">17155691</id>
+	<books_count type="integer">16</books_count>
+	<ratings_count type="integer">7414</ratings_count>
+	<text_reviews_count type="integer">984</text_reviews_count>
+	<original_publication_year type="integer">2018</original_publication_year>
+	<original_publication_month type="integer">6</original_publication_month>
+	<original_publication_day type="integer">5</original_publication_day>
+	<average_rating>4.41</average_rating>
+	<best_book type="Book">
+	<id type="integer">12183815</id>
+	<title>Brief Cases (The Dresden Files, #15.1)</title>
+	<author>
+	<id type="integer">10746</id>
+	<name>Jim Butcher</name>
+	</author>
+	<image_url>https://images.gr-assets.com/books/1513644037m/12183815.jpg</image_url>
+	<small_image_url>https://images.gr-assets.com/books/1513644037s/12183815.jpg</small_image_url>
+	</best_book>
+	</work>
+	</results>
+	</search>
+</GoodreadsResponse>
