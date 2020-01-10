@@ -87,8 +87,8 @@ The icons are from or based on [Font Awesome][awesome] ([SIL][sil]).
 [alfred]: https://alfredapp.com/
 [confsheet]: https://www.alfredapp.com/help/workflows/advanced/variables/#environment
 [awgo]: https://github.com/deanishe/awgo
-[download]: https://git.deanishe.net/deanishe/alfred-imdb/releases/latest
-[issues]: https://git.deanishe.net/deanishe/alfred-imdb/issues
+[download]: https://github.com/deanishe/alfred-imdb/releases/latest
+[issues]: https://github.com/deanishe/alfred-imdb/issues
 [sil]: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 [mit]: https://opensource.org/licenses/MIT
 [awesome]: http://fortawesome.github.io/Font-Awesome/
