@@ -7,7 +7,7 @@
 Goodreads Book Search for Alfred 4
 ==================================
 
-Search for movies, TV shows and people in [Alfred 4][alfred].
+Search for books and authors in [Alfred 4][alfred].
 
 - [Download & installation](#download--installation)
 - [Usage](#usage)
@@ -24,20 +24,22 @@ Download & installation
 Usage
 -----
 
-- `gr <query>` — Search for a book.
-    - `↩` — Open book details in browser.
-    - `⌘↩` — Open author page in browser.
-    - `...` — Open custom URL (see [configuration](#configuration)).
+- `gr <query>` — Search for a book
+    - `↩` — Open book details in browser
+    - `⌘↩` — Open author page in browser
+    - `...` — Open custom URL (see [configuration](#configuration))
+- `grconf [<query>]` — Workflow configuration
 
 
 Configuration
 -------------
 
-There are a couple of options in the workflow's [configuration sheet][confsheet] (the `[x]` button in Alfred Preferences):
+You **must** set an API key for the workflow to work. Use `grconf` > `API Key Not Set` to enter your Goodreads.com API key. It will be saved in your Keychain.
+
+There is one default in the workflow's [configuration sheet][confsheet] (the `[x]` button in Alfred Preferences):
 
 | Setting         | Description                          |
 | --------------- | ------------------------------------ |
-| `API_KEY`       | Goodreads.com API key                |
 | `MAX_CACHE_AGE` | How long to cache search results for |
 
 
@@ -76,12 +78,7 @@ original, unescaped values are available via the `*Raw` variables
 Licensing & thanks
 ------------------
 
-This workflow is released under the [MIT Licence][mit].
-
-It is based on [AwGo][awgo] ([MIT][mit]).
-
-
-The icons are from or based on [Font Awesome][awesome] ([SIL][sil]).
+This workflow is released under the [MIT Licence][mit]. It is based on [AwGo][awgo] ([MIT][mit]). The icons are from or based on [Font Awesome][awesome] ([SIL][sil]).
 
 
 [alfred]: https://alfredapp.com/
