@@ -91,4 +91,4 @@ This workflow is released under the [MIT Licence][mit]. It is based on [AwGo][aw
 [sil]: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 [mit]: https://opensource.org/licenses/MIT
 [awesome]: http://fortawesome.github.io/Font-Awesome/
-[demo]: demo.gif
+[demo]: https://raw.githubusercontent.com/deanishe/alfred-goodreads/master/demo.gif
