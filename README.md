@@ -7,6 +7,8 @@
 Goodreads Book Search for Alfred 4
 ==================================
 
+![][demo]
+
 Search for books and authors in [Alfred 4][alfred].
 
 - [Download & installation](#download--installation)
@@ -89,3 +91,4 @@ This workflow is released under the [MIT Licence][mit]. It is based on [AwGo][aw
 [sil]: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 [mit]: https://opensource.org/licenses/MIT
 [awesome]: http://fortawesome.github.io/Font-Awesome/
+[demo]: https://raw.githubusercontent.com/deanishe/alfred-goodreads/master/demo.gif
