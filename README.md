@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img height="128" width="128" src="./icons/icon.png">
+    <img height="128" width="128" src="https://raw.githubusercontent.com/deanishe/alfred-goodreads/master/icons/icon.png">
 </div>
 
 
