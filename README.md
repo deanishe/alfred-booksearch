@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img height="128" width="128" src="https://git.deanishe.net/deanishe/alfred-goodreads/raw/branch/master/icons/icon.png">
+    <img height="128" width="128" src="./icons/icon.png">
 </div>
 
 
