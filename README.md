@@ -86,8 +86,8 @@ This workflow is released under the [MIT Licence][mit]. It is based on [AwGo][aw
 [alfred]: https://alfredapp.com/
 [confsheet]: https://www.alfredapp.com/help/workflows/advanced/variables/#environment
 [awgo]: https://github.com/deanishe/awgo
-[download]: https://github.com/deanishe/alfred-imdb/releases/latest
-[issues]: https://github.com/deanishe/alfred-imdb/issues
+[download]: https://github.com/deanishe/alfred-goodreads/releases/latest
+[issues]: https://github.com/deanishe/alfred-goodreads/issues
 [sil]: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 [mit]: https://opensource.org/licenses/MIT
 [awesome]: http://fortawesome.github.io/Font-Awesome/
