@@ -36,7 +36,7 @@ Usage
 Configuration
 -------------
 
-You **must** set an API key for the workflow to work. Use `grconf` > `API Key Not Set` to enter your Goodreads.com API key. It will be saved in your Keychain.
+You **must** set an API key for the workflow to work. Use `grconf` > `API Key Not Set` to enter your Goodreads.com API key. It will be saved in your Keychain. You can get an API key [here](https://www.goodreads.com/api/keys).
 
 There is one default in the workflow's [configuration sheet][confsheet] (the `[x]` button in Alfred Preferences):
 
