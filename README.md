@@ -60,6 +60,8 @@ The following variables are available:
 
 | Variable      | Meaning                      |
 | ------------- | ---------------------------- |
+| `ID`          | Book ID (for Goodreads)      |
+| `WorkID`      | Work ID (for Goodreads)      |
 | `Title`       | Book title                   |
 | `Author`      | Author name                  |
 | `AuthorID`    | Author ID (for Goodreads)    |

@@ -51,6 +51,7 @@ var (
 	expectedDresden = []Book{
 		Book{
 			ID:       47212,
+			WorkID:   1137060,
 			Title:    "Storm Front (The Dresden Files, #1)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2000, time.April, 1),
@@ -60,6 +61,7 @@ var (
 		},
 		Book{
 			ID:       6585201,
+			WorkID:   6778696,
 			Title:    "Changes (The Dresden Files, #12)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2010, time.April, 6),
@@ -69,6 +71,7 @@ var (
 		},
 		Book{
 			ID:       91477,
+			WorkID:   855288,
 			Title:    "Fool Moon (The Dresden Files, #2)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2001, time.January, 1),
@@ -78,6 +81,7 @@ var (
 		},
 		Book{
 			ID:       7779059,
+			WorkID:   10351697,
 			Title:    "Side Jobs: Stories from the Dresden Files (The Dresden Files, #12.5)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2010, time.October, 26),
@@ -87,6 +91,7 @@ var (
 		},
 		Book{
 			ID:       91476,
+			WorkID:   803205,
 			Title:    "Grave Peril (The Dresden Files, #3)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2001, time.September, 1),
@@ -96,6 +101,7 @@ var (
 		},
 		Book{
 			ID:       91478,
+			WorkID:   912988,
 			Title:    "Summer Knight (The Dresden Files, #4)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2002, time.September, 3),
@@ -105,6 +111,7 @@ var (
 		},
 		Book{
 			ID:       91479,
+			WorkID:   2183,
 			Title:    "Death Masks (The Dresden Files, #5)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2003, time.August, 1),
@@ -114,6 +121,7 @@ var (
 		},
 		Book{
 			ID:       99383,
+			WorkID:   227172,
 			Title:    "Blood Rites (The Dresden Files, #6)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2004, time.August, 1),
@@ -123,6 +131,7 @@ var (
 		},
 		Book{
 			ID:       17683,
+			WorkID:   6614452,
 			Title:    "Dead Beat (The Dresden Files, #7)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2005, time.May, 3),
@@ -132,6 +141,7 @@ var (
 		},
 		Book{
 			ID:       91475,
+			WorkID:   1254936,
 			Title:    "White Night (The Dresden Files, #9)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2007, time.April, 3),
@@ -141,6 +151,7 @@ var (
 		},
 		Book{
 			ID:       91474,
+			WorkID:   576222,
 			Title:    "Proven Guilty (The Dresden Files, #8)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2006, time.February, 1),
@@ -150,6 +161,7 @@ var (
 		},
 		Book{
 			ID:       927979,
+			WorkID:   2054834,
 			Title:    "Small Favor (The Dresden Files, #10)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2008, time.April, 1),
@@ -159,6 +171,7 @@ var (
 		},
 		Book{
 			ID:       3475161,
+			WorkID:   3516480,
 			Title:    "Turn Coat (The Dresden Files, #11)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2009, time.April, 7),
@@ -168,6 +181,7 @@ var (
 		},
 		Book{
 			ID:       8058301,
+			WorkID:   12731936,
 			Title:    "Ghost Story (The Dresden Files,  #13)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2011, time.January, 1),
@@ -177,6 +191,7 @@ var (
 		},
 		Book{
 			ID:       12216302,
+			WorkID:   17189468,
 			Title:    "Cold Days (The Dresden Files, #14)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2012, time.November, 27),
@@ -186,6 +201,7 @@ var (
 		},
 		Book{
 			ID:       19486421,
+			WorkID:   23811929,
 			Title:    "Skin Game (The Dresden Files, #15)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2014, time.May, 27),
@@ -195,6 +211,7 @@ var (
 		},
 		Book{
 			ID:       2575572,
+			WorkID:   2588518,
 			Title:    "Backup (The Dresden Files, #10.4)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2008, time.October, 31),
@@ -204,6 +221,7 @@ var (
 		},
 		Book{
 			ID:       22249640,
+			WorkID:   40515430,
 			Title:    "Peace Talks (The Dresden Files, #16)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.Date{},
@@ -213,6 +231,7 @@ var (
 		},
 		Book{
 			ID:       4271488,
+			WorkID:   4319010,
 			Title:    "Vignette (The Dresden Files, #5.5)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2008, 1, 1),
@@ -222,6 +241,7 @@ var (
 		},
 		Book{
 			ID:       12183815,
+			WorkID:   17155691,
 			Title:    "Brief Cases (The Dresden Files, #15.1)",
 			Author:   Author{ID: 10746, Name: "Jim Butcher", URL: "https://www.goodreads.com/author/show/10746"},
 			PubDate:  date.New(2018, time.June, 5),

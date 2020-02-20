@@ -68,7 +68,8 @@ func (a Author) Eq(other Author) bool {
 }
 
 type Book struct {
-	ID int
+	ID     int
+	WorkID int
 
 	Title   string
 	Author  Author
@@ -83,6 +84,7 @@ type Book struct {
 func (b Book) String() string {
 	return fmt.Sprintf(`Book{
 	ID: %d,
+	WorkID: %d,
 
 	Title:   %q,
 	Author:  %v,
@@ -91,50 +93,15 @@ func (b Book) String() string {
 
 	URL:      %q,
 	ImageURL: %q,
-}`, b.ID, b.Title, b.Author, b.PubDate, b.Rating, b.URL, b.ImageURL)
-}
-
-// Eq checks whether two Books have the same values.
-func (b Book) Eq(other Book) bool {
-	if b.ID != other.ID {
-		log.Printf("[ID] %d != %d", b.ID, other.ID)
-		return false
-	}
-	if b.Title != other.Title {
-		log.Printf("[Title] %q != %q", b.Title, other.Title)
-		return false
-	}
-	if !b.Author.Eq(other.Author) {
-		return false
-	}
-	if (b.PubDate.IsZero() && !other.PubDate.IsZero()) || (!b.PubDate.IsZero() && other.PubDate.IsZero()) {
-		return false
-	}
-	if !b.PubDate.IsZero() {
-		if !b.PubDate.Equal(other.PubDate) {
-			log.Printf("[PubDate] %v != %v", b.PubDate, other.PubDate)
-			return false
-		}
-	}
-	if b.Rating != other.Rating {
-		log.Printf("[Rating] %f != %f", b.Rating, other.Rating)
-		return false
-	}
-	if b.URL != other.URL {
-		log.Printf("[URL] %q != %q", b.URL, other.URL)
-		return false
-	}
-	if b.ImageURL != other.ImageURL {
-		log.Printf("[ImageURL] %q != %q", b.ImageURL, other.ImageURL)
-		return false
-	}
-	return true
+}`, b.ID, b.WorkID, b.Title, b.Author, b.PubDate, b.Rating, b.URL, b.ImageURL)
 }
 
 // Data returns template data.
 func (b Book) Data() map[string]string {
 	titleNoSeries := trimSeries(b.Title)
 	return map[string]string{
+		"ID":                  fmt.Sprintf("%d", b.ID),
+		"WorkID":              fmt.Sprintf("%d", b.WorkID),
 		"Title":               b.Title,
 		"TitleNoSeries":       titleNoSeries,
 		"Author":              b.Author.Name,
@@ -230,6 +197,7 @@ func unmarshalSearchResults(data []byte) (books []Book, err error) {
 	v := struct {
 		Works []struct {
 			ID     int    `xml:"best_book>id"`
+			WorkID int    `xml:"id"`
 			Title  string `xml:"best_book>title"`
 			Author Author `xml:"best_book>author"`
 			Year   int    `xml:"original_publication_year"`
@@ -247,6 +215,7 @@ func unmarshalSearchResults(data []byte) (books []Book, err error) {
 	for _, r := range v.Works {
 		b := Book{
 			ID:       r.ID,
+			WorkID:   r.WorkID,
 			Title:    r.Title,
 			Author:   r.Author,
 			Rating:   r.Rating,

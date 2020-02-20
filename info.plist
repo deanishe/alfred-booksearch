@@ -326,7 +326,7 @@
 				<key>queuedelayimmediatelyinitially</key>
 				<false/>
 				<key>queuedelaymode</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
@@ -955,9 +955,42 @@ You **must** set an API key via "grconf" or the workflow won't work.</string>
 	<dict>
 		<key>MAX_CACHE_AGE</key>
 		<string>24h</string>
+		<key>NAME_CTRL</key>
+		<string>Search on MyAnonamouse</string>
+		<key>NAME_CTRL_CMD</key>
+		<string>Search for cover on Google Images</string>
+		<key>NAME_OPT_CMD</key>
+		<string>Search for cover</string>
+		<key>NAME_OPT_CTRL</key>
+		<string>Search on What Should I Read Next?</string>
+		<key>NAME_SHIFT</key>
+		<string>Show similar books</string>
+		<key>URL_CTRL</key>
+		<string>https://www.myanonamouse.net/tor/browse.php?tor[text]=${AuthorTitleNoSeries}&amp;tor[srchIn][title]=true&amp;tor[srchIn][author]=true&amp;tor[srchIn][series]=true&amp;tor[searchType]=all&amp;tor[searchIn]=torrents&amp;tor[cat][]=39&amp;tor[cat][]=49&amp;tor[cat][]=50&amp;tor[cat][]=83&amp;tor[cat][]=51&amp;tor[cat][]=97&amp;tor[cat][]=40&amp;tor[cat][]=41&amp;tor[cat][]=106&amp;tor[cat][]=42&amp;tor[cat][]=52&amp;tor[cat][]=98&amp;tor[cat][]=54&amp;tor[cat][]=55&amp;tor[cat][]=43&amp;tor[cat][]=99&amp;tor[cat][]=84&amp;tor[cat][]=44&amp;tor[cat][]=56&amp;tor[cat][]=45&amp;tor[cat][]=57&amp;tor[cat][]=85&amp;tor[cat][]=87&amp;tor[cat][]=119&amp;tor[cat][]=88&amp;tor[cat][]=58&amp;tor[cat][]=59&amp;tor[cat][]=46&amp;tor[cat][]=47&amp;tor[cat][]=53&amp;tor[cat][]=89&amp;tor[cat][]=100&amp;tor[cat][]=108&amp;tor[cat][]=48&amp;tor[cat][]=111&amp;tor[cat][]=60&amp;tor[cat][]=71&amp;tor[cat][]=72&amp;tor[cat][]=90&amp;tor[cat][]=61&amp;tor[cat][]=73&amp;tor[cat][]=101&amp;tor[cat][]=62&amp;tor[cat][]=63&amp;tor[cat][]=107&amp;tor[cat][]=64&amp;tor[cat][]=74&amp;tor[cat][]=102&amp;tor[cat][]=76&amp;tor[cat][]=77&amp;tor[cat][]=65&amp;tor[cat][]=103&amp;tor[cat][]=115&amp;tor[cat][]=91&amp;tor[cat][]=66&amp;tor[cat][]=78&amp;tor[cat][]=67&amp;tor[cat][]=79&amp;tor[cat][]=80&amp;tor[cat][]=92&amp;tor[cat][]=118&amp;tor[cat][]=94&amp;tor[cat][]=120&amp;tor[cat][]=95&amp;tor[cat][]=81&amp;tor[cat][]=82&amp;tor[cat][]=68&amp;tor[cat][]=69&amp;tor[cat][]=75&amp;tor[cat][]=96&amp;tor[cat][]=104&amp;tor[cat][]=109&amp;tor[cat][]=70&amp;tor[cat][]=112&amp;tor[cat][]=127&amp;tor[cat][]=130&amp;tor[cat][]=128&amp;tor[cat][]=132&amp;tor[cat][]=0&amp;tor[browse_lang][]=1&amp;tor[browse_lang][]=37&amp;tor[browseFlagsHideVsShow]=0&amp;tor[sortType]=default&amp;tor[startNumber]=0&amp;thumbnail=true</string>
+		<key>URL_CTRL_CMD</key>
+		<string>https://www.google.com/search?hl=en&amp;tbm=isch&amp;source=hp&amp;q=site%3Abooks.apple.com+${AuthorTitleNoSeries}</string>
+		<key>URL_OPT_CMD</key>
+		<string>https://google.cnblw.me/searx/?categories=images&amp;language=en&amp;q=audiobook+cover+${AuthorTitleNoSeries}</string>
+		<key>URL_OPT_CTRL</key>
+		<string>https://www.whatshouldireadnext.com/index.php?q=${TitleNoSeries}</string>
+		<key>URL_SHIFT</key>
+		<string>https://www.goodreads.com/book/similar/${WorkID}</string>
 	</dict>
+	<key>variablesdontexport</key>
+	<array>
+		<string>NAME_OPT_CMD</string>
+		<string>URL_CTRL_CMD</string>
+		<string>NAME_SHIFT</string>
+		<string>NAME_CTRL</string>
+		<string>URL_SHIFT</string>
+		<string>URL_CTRL</string>
+		<string>NAME_OPT_CTRL</string>
+		<string>URL_OPT_CMD</string>
+		<string>URL_OPT_CTRL</string>
+		<string>NAME_CTRL_CMD</string>
+	</array>
 	<key>version</key>
-	<string>0.1.3</string>
+	<string>0.1.4</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
