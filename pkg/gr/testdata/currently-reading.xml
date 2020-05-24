@@ -1,0 +1,333 @@
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[W50Kq7OIhVFLTy9daYLlDw]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <shelf exclusive="true" id="26942345" name="currently-reading" sortable="false"/>
+  <reviews start="1" end="5" total="5">
+    <review>
+      <id>3337623363</id>
+      <book>
+        <id type="integer">31379281</id>
+        <isbn nil="true"/>
+        <isbn13 nil="true"/>
+        <text_reviews_count type="integer">47</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.3oeXLpqThZsvBKTLGF7mMA</uri>
+        <title>Deep Cover Jack (Hunt For Reacher #4)</title>
+        <title_without_series>Deep Cover Jack</title_without_series>
+        <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+        <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/31379281-deep-cover-jack</link>
+        <num_pages/>
+        <format/>
+        <edition_information/>
+        <publisher/>
+        <publication_day/>
+        <publication_year/>
+        <publication_month/>
+        <average_rating>4.08</average_rating>
+        <ratings_count>767</ratings_count>
+        <description>In the thrilling follow-up to the ITW Thriller Award Finalist (“Jack and Joe”), FBI Special Agents Kim Otto and Carlos Gaspar will wait no longer. They head to Houston to find Susan Duffy, one of Jack Reacher’s known associates, determined to get answers. But Duffy’s left town, headed for trouble. Otto and Gaspar are right behind her, and powerful enemies with their backs against the wall will have everything to lose.</description>
+        <authors>
+          <author>
+            <id>5070259</id>
+            <name>Diane Capri</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1337966228p5/5070259.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1337966228p2/5070259.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/5070259.Diane_Capri]]></link>
+            <average_rating>3.84</average_rating>
+            <ratings_count>32072</ratings_count>
+            <text_reviews_count>2385</text_reviews_count>
+          </author>
+        </authors>
+        <published/>
+        <work>
+          <id>50387688</id>
+          <uri>kca://work/amzn1.gr.work.v1.JKrv2AEDX7pTc-bWQhch8g</uri>
+        </work>
+      </book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+        <shelf exclusive="true" id="26942345" name="currently-reading" review_shelf_id="2983589305" sortable="false"/>
+        <shelf exclusive="false" id="57421664" name="thrillers" review_shelf_id="2983589261" sortable="false"/>
+      </shelves>
+      <recommended_for/>
+      <recommended_by/>
+      <started_at>Mon May 18 14:29:00 -0700 2020</started_at>
+      <read_at/>
+      <date_added>Fri May 15 04:02:32 -0700 2020</date_added>
+      <date_updated>Mon May 18 14:29:00 -0700 2020</date_updated>
+      <read_count>1</read_count>
+      <body>
+  </body>
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/3337623363]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/3337623363]]></link>
+      <owned>0</owned>
+    </review>
+    <review>
+      <id>3317503972</id>
+      <book>
+        <id type="integer">10383597</id>
+        <isbn>0771041411</isbn>
+        <isbn13>9780771041419</isbn13>
+        <text_reviews_count type="integer">490</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.EBXXR2G6QsIbtDvEY6IG5g</uri>
+        <title>Arguably: Selected Essays</title>
+        <title_without_series>Arguably: Selected Essays</title_without_series>
+        <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426386037l/10383597._SX98_.jpg</image_url>
+        <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426386037l/10383597._SX50_.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/10383597-arguably</link>
+        <num_pages>816</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Signal</publisher>
+        <publication_day/>
+        <publication_year>2011</publication_year>
+        <publication_month/>
+        <average_rating>4.20</average_rating>
+        <ratings_count>8671</ratings_count>
+        <description>The first new book of essays by Christopher Hitchens since 2004, &lt;i&gt;Arguably&lt;/i&gt; offers an indispensable key to understanding the passionate and skeptical spirit of one of our most dazzling writers, widely admired for the clarity of his style, a result of his disciplined and candid thinking. &lt;br /&gt;&lt;br /&gt;Topics range from ruminations on why Charles Dickens was among the best of writers and the worst of men to the haunting science fiction of J.G. Ballard; from the enduring legacies of Thomas Jefferson and George Orwell to the persistent agonies of anti-Semitism and jihad. Hitchens even looks at the recent financial crisis and argues for the enduring relevance of Karl Marx. &lt;br /&gt;&lt;br /&gt;The book forms a bridge between the two parallel enterprises of culture and politics. It reveals how politics justifies itself by culture, and how the latter prompts the former. In this fashion, &lt;i&gt;Arguably&lt;/i&gt; burnishes Christopher Hitchens' credentials as (to quote Christopher Buckley) our "greatest living essayist in the English language."</description>
+        <authors>
+          <author>
+            <id>3956</id>
+            <name>Christopher Hitchens</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1434046956p5/3956.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1434046956p2/3956.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/3956.Christopher_Hitchens]]></link>
+            <average_rating>4.13</average_rating>
+            <ratings_count>528590</ratings_count>
+            <text_reviews_count>18845</text_reviews_count>
+          </author>
+        </authors>
+        <published>2011</published>
+        <work>
+          <id>15287191</id>
+          <uri>kca://work/amzn1.gr.work.v1.990yRWzVecEm_O-BBF5PUg</uri>
+        </work>
+      </book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+        <shelf exclusive="true" id="26942345" name="currently-reading" review_shelf_id="2958020920" sortable="false"/>
+      </shelves>
+      <recommended_for/>
+      <recommended_by/>
+      <started_at>Mon May 04 04:18:41 -0700 2020</started_at>
+      <read_at/>
+      <date_added>Mon May 04 04:18:35 -0700 2020</date_added>
+      <date_updated>Mon May 04 04:18:41 -0700 2020</date_updated>
+      <read_count>1</read_count>
+      <body>
+  </body>
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/3317503972]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/3317503972]]></link>
+      <owned>0</owned>
+    </review>
+    <review>
+      <id>2838465022</id>
+      <book>
+        <id type="integer">61886</id>
+        <isbn>0007133618</isbn>
+        <isbn13>9780007133611</isbn13>
+        <text_reviews_count type="integer">1666</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.KzdyVrYhge1wpwf_astkrw</uri>
+        <title>The Curse of Chalion (World of the Five Gods, #1)</title>
+        <title_without_series>The Curse of Chalion</title_without_series>
+        <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322571773l/61886._SX98_.jpg</image_url>
+        <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322571773l/61886._SY75_.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/61886.The_Curse_of_Chalion</link>
+        <num_pages>490</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>Voyager</publisher>
+        <publication_day>3</publication_day>
+        <publication_year>2003</publication_year>
+        <publication_month>2</publication_month>
+        <average_rating>4.15</average_rating>
+        <ratings_count>31585</ratings_count>
+        <description>A man broken in body and spirit, Cazaril, has returned to the noble household he once served as page, and is named, to his great surprise, as the secretary-tutor to the beautiful, strong-willed sister of the impetuous boy who is next in line to rule. &lt;br /&gt;&lt;br /&gt;It is an assignment Cazaril dreads, for it will ultimately lead him to the place he fears most, the royal court of Cardegoss, where the powerful enemies, who once placed him in chains, now occupy lofty positions. In addition to the traitorous intrigues of villains, Cazaril and the Royesse Iselle, are faced with a sinister curse that hangs like a sword over the entire blighted House of Chalion and all who stand in their circle. Only by employing the darkest, most forbidden of magics, can Cazaril hope to protect his royal charge—an act that will mark the loyal, damaged servant as a tool of the miraculous, and trap him, flesh and soul, in a maze of demonic paradox, damnation, and death.</description>
+        <authors>
+          <author>
+            <id>16094</id>
+            <name>Lois McMaster Bujold</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1377313786p5/16094.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1377313786p2/16094.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold]]></link>
+            <average_rating>4.17</average_rating>
+            <ratings_count>465887</ratings_count>
+            <text_reviews_count>26296</text_reviews_count>
+          </author>
+        </authors>
+        <published>2003</published>
+        <work>
+          <id>1129349</id>
+          <uri>kca://work/amzn1.gr.work.v1.GIGGGOq00fS9GuucaUdkhw</uri>
+        </work>
+      </book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+        <shelf exclusive="false" id="26943680" name="fantasy" review_shelf_id="2484938089" sortable="false"/>
+        <shelf exclusive="true" id="26942345" name="currently-reading" review_shelf_id="2484938083" sortable="false"/>
+      </shelves>
+      <recommended_for/>
+      <recommended_by/>
+      <started_at>Wed May 29 05:12:59 -0700 2019</started_at>
+      <read_at/>
+      <date_added>Wed May 29 05:12:58 -0700 2019</date_added>
+      <date_updated>Wed May 29 05:12:59 -0700 2019</date_updated>
+      <read_count>1</read_count>
+      <body>
+  </body>
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/2838465022]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/2838465022]]></link>
+      <owned>0</owned>
+    </review>
+    <review>
+      <id>2414118432</id>
+      <book>
+        <id type="integer">14497</id>
+        <isbn>0060557818</isbn>
+        <isbn13>9780060557812</isbn13>
+        <text_reviews_count type="integer">15711</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.c51MT6mpyRpeHepu6Yx7Sg</uri>
+        <title>Neverwhere (London Below, #1)</title>
+        <title_without_series>Neverwhere</title_without_series>
+        <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348747943l/14497._SX98_.jpg</image_url>
+        <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348747943l/14497._SX50_.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/14497.Neverwhere</link>
+        <num_pages>370</num_pages>
+        <format>Paperback</format>
+        <edition_information/>
+        <publisher>William Morrow Paperbacks</publisher>
+        <publication_day>2</publication_day>
+        <publication_year>2003</publication_year>
+        <publication_month>9</publication_month>
+        <average_rating>4.17</average_rating>
+        <ratings_count>417623</ratings_count>
+        <description>Under the streets of London there's a place most people could never even dream of. A city of monsters and saints, murderers and angels, knights in armour and pale girls in black velvet. This is the city of the people who have fallen between the cracks.&lt;br /&gt;&lt;br /&gt;Richard Mayhew, a young businessman, is going to find out more than enough about this other London. A single act of kindness catapults him out of his workday existence and into a world that is at once eerily familiar and utterly bizarre. And a strange destiny awaits him down here, beneath his native city: Neverwhere.</description>
+        <authors>
+          <author>
+            <id>1221698</id>
+            <name>Neil Gaiman</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+            <average_rating>4.13</average_rating>
+            <ratings_count>5947705</ratings_count>
+            <text_reviews_count>358182</text_reviews_count>
+          </author>
+        </authors>
+        <published>2003</published>
+        <work>
+          <id>16534</id>
+          <uri>kca://work/amzn1.gr.work.v1.BDISHjs24Q5pevic84Muyw</uri>
+        </work>
+      </book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+        <shelf exclusive="true" id="26942345" name="currently-reading" review_shelf_id="2060766190" sortable="false"/>
+      </shelves>
+      <recommended_for/>
+      <recommended_by/>
+      <started_at>Tue Jun 05 08:14:29 -0700 2018</started_at>
+      <read_at/>
+      <date_added>Tue Jun 05 08:14:29 -0700 2018</date_added>
+      <date_updated>Tue Jun 05 08:14:29 -0700 2018</date_updated>
+      <read_count>1</read_count>
+      <body>
+  </body>
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/2414118432]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/2414118432]]></link>
+      <owned>0</owned>
+    </review>
+    <review>
+      <id>1308831514</id>
+      <book>
+        <id type="integer">18656030</id>
+        <isbn nil="true"/>
+        <isbn13 nil="true"/>
+        <text_reviews_count type="integer">2713</text_reviews_count>
+        <uri>kca://book/amzn1.gr.book.v1.9RLf3TiHCqm1Lo-xIU_KbQ</uri>
+        <title>Cibola Burn (The Expanse, #4)</title>
+        <title_without_series>Cibola Burn</title_without_series>
+        <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405023040l/18656030._SX98_.jpg</image_url>
+        <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405023040l/18656030._SY75_.jpg</small_image_url>
+        <large_image_url/>
+        <link>https://www.goodreads.com/book/show/18656030-cibola-burn</link>
+        <num_pages>581</num_pages>
+        <format>Hardcover</format>
+        <edition_information/>
+        <publisher>Orbit</publisher>
+        <publication_day>17</publication_day>
+        <publication_year>2014</publication_year>
+        <publication_month>6</publication_month>
+        <average_rating>4.17</average_rating>
+        <ratings_count>61899</ratings_count>
+        <description>&lt;b&gt;The fourth novel in James S.A. Corey’s New York Times bestselling Expanse series&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The gates have opened the way to thousands of habitable planets, and the land rush has begun. Settlers stream out from humanity's home planets in a vast, poorly controlled flood, landing on a new world. Among them, the Rocinante, haunted by the vast, posthuman network of the protomolecule as they investigate what destroyed the great intergalactic society that built the gates and the protomolecule.&lt;br /&gt;&lt;br /&gt;But Holden and his crew must also contend with the growing tensions between the settlers and the company which owns the official claim to the planet. Both sides will stop at nothing to defend what's theirs, but soon a terrible disease strikes and only Holden - with help from the ghostly Detective Miller - can find the cure.</description>
+        <authors>
+          <author>
+            <id>4192148</id>
+            <name>James S.A. Corey</name>
+            <role/>
+            <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1573162332p5/4192148.jpg]]></image_url>
+            <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1573162332p2/4192148.jpg]]></small_image_url>
+            <link><![CDATA[https://www.goodreads.com/author/show/4192148.James_S_A_Corey]]></link>
+            <average_rating>4.25</average_rating>
+            <ratings_count>625300</ratings_count>
+            <text_reviews_count>38764</text_reviews_count>
+          </author>
+        </authors>
+        <published>2014</published>
+        <work>
+          <id>26109318</id>
+          <uri>kca://work/amzn1.gr.work.v1.6wB_FRP7tsttPPKsNmetOA</uri>
+        </work>
+      </book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+        <shelf exclusive="true" id="26942345" name="currently-reading" review_shelf_id="3085973822" sortable="false"/>
+        <shelf exclusive="false" id="26943462" name="sf" review_shelf_id="2458687091" sortable="false"/>
+      </shelves>
+      <recommended_for/>
+      <recommended_by/>
+      <started_at>Fri Jul 17 02:02:50 -0700 2020</started_at>
+      <read_at/>
+      <date_added>Mon Jun 15 13:59:54 -0700 2015</date_added>
+      <date_updated>Fri Jul 17 02:02:50 -0700 2020</date_updated>
+      <read_count>2</read_count>
+      <body>
+  </body>
+      <comments_count>0</comments_count>
+      <url><![CDATA[https://www.goodreads.com/review/show/1308831514]]></url>
+      <link><![CDATA[https://www.goodreads.com/review/show/1308831514]]></link>
+      <owned>0</owned>
+    </review>
+  </reviews>
+</GoodreadsResponse>

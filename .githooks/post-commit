@@ -1,0 +1,4 @@
+#!/bin/zsh -e
+
+script="$( git rev-parse --show-toplevel )/vars.py"
+test -x "$script" && "$script" -ar

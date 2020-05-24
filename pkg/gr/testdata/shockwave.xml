@@ -1,0 +1,791 @@
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[W50Kq7OIhVFLTy9daYLlDw]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+    <id>45353889</id>
+    <title>Shockwave (Star Kingdom #1)</title>
+    <isbn><![CDATA[]]></isbn>
+    <isbn13><![CDATA[]]></isbn13>
+    <asin><![CDATA[B07R8GX4Y2]]></asin>
+    <kindle_asin><![CDATA[]]></kindle_asin>
+    <marketplace_id><![CDATA[]]></marketplace_id>
+    <country_code><![CDATA[DE]]></country_code>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+    <publication_year/>
+    <publication_month/>
+    <publication_day/>
+    <publisher/>
+    <language_code>eng</language_code>
+    <is_ebook>true</is_ebook>
+    <description><![CDATA[<b>What if being a hero was encoded in your genes?<br /><br />And nobody told you?</b><br /><br />Casmir Dabrowski would laugh if someone asked him that. After all, he had to build a robot to protect himself from bullies when he was in school.<br /><br />Fortunately, life is a little better these days. He's an accomplished robotics engineer, a respected professor, and he almost never gets picked on in the lunchroom. But he's positive heroics are for other people.<br /><br />Until robot assassins stride onto campus and try to kill him.<br /><br />Forced to flee the work he loves and the only home he's ever known, Casmir catches the first ship into space, where he hopes to buy time to figure out who wants him dead and why. If he can't, he'll never be able to return home.<br /><br />But he soon finds himself entangled with bounty hunters, mercenaries, and pirates, including the most feared criminal in the Star Kingdom: Captain Tenebris Rache.<br /><br />Rache could snap his spine with one cybernetically enhanced finger, but he may be the only person with the answer Casmir desperately needs:<br /><br />What in his genes is worth killing for?]]></description>
+    <work>
+      <id type="integer">70095418</id>
+      <books_count type="integer">2</books_count>
+      <best_book_id type="integer">45353889</best_book_id>
+      <reviews_count type="integer">7747</reviews_count>
+      <ratings_sum type="integer">10690</ratings_sum>
+      <ratings_count type="integer">2557</ratings_count>
+      <text_reviews_count type="integer">171</text_reviews_count>
+      <original_publication_year type="integer">2019</original_publication_year>
+      <original_publication_month type="integer">5</original_publication_month>
+      <original_publication_day type="integer">8</original_publication_day>
+      <original_title/>
+      <original_language_id type="integer" nil="true"/>
+      <media_type>book</media_type>
+      <rating_dist>5:1133|4:931|3:365|2:78|1:50|total:2557</rating_dist>
+      <desc_user_id type="integer">6349980</desc_user_id>
+      <default_chaptering_book_id type="integer" nil="true"/>
+      <default_description_language_code nil="true"/>
+      <work_uri>kca://work/amzn1.gr.work.v1.ofG7EYXNqn-EBPBCBSUerA</work_uri>
+    </work>
+    <average_rating>4.18</average_rating>
+    <num_pages><![CDATA[338]]></num_pages>
+    <format><![CDATA[]]></format>
+    <edition_information><![CDATA[]]></edition_information>
+    <ratings_count><![CDATA[2556]]></ratings_count>
+    <text_reviews_count><![CDATA[171]]></text_reviews_count>
+    <url><![CDATA[https://www.goodreads.com/book/show/45353889-shockwave]]></url>
+    <link><![CDATA[https://www.goodreads.com/book/show/45353889-shockwave]]></link>
+    <authors>
+      <author>
+        <id>4512224</id>
+        <name>Lindsay Buroker</name>
+        <role/>
+        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1292869920p5/4512224.jpg]]></image_url>
+        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1292869920p2/4512224.jpg]]></small_image_url>
+        <link><![CDATA[https://www.goodreads.com/author/show/4512224.Lindsay_Buroker]]></link>
+        <average_rating>4.25</average_rating>
+        <ratings_count>202900</ratings_count>
+        <text_reviews_count>13738</text_reviews_count>
+      </author>
+    </authors>
+    <reviews_widget><![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/45353889-shockwave">Shockwave Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B07R8GX4Y2&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/45353889-shockwave?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]></reviews_widget>
+    <popular_shelves>
+      <shelf name="currently-reading" count="1989"/>
+      <shelf name="to-read" count="1799"/>
+      <shelf name="sci-fi" count="61"/>
+      <shelf name="science-fiction" count="51"/>
+      <shelf name="scifi" count="19"/>
+      <shelf name="kindle-unlimited" count="18"/>
+      <shelf name="ebook" count="16"/>
+      <shelf name="kindle" count="14"/>
+      <shelf name="space-opera" count="11"/>
+      <shelf name="series" count="9"/>
+      <shelf name="fiction" count="6"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="ku" count="6"/>
+      <shelf name="fantasy" count="5"/>
+      <shelf name="ebooks" count="5"/>
+      <shelf name="adventure" count="4"/>
+      <shelf name="space" count="4"/>
+      <shelf name="sf" count="4"/>
+      <shelf name="first-in-series" count="3"/>
+      <shelf name="did-not-finish" count="3"/>
+      <shelf name="first-in-a-series" count="3"/>
+      <shelf name="read-2019" count="3"/>
+      <shelf name="audiobook" count="2"/>
+      <shelf name="read-2020" count="2"/>
+      <shelf name="sci-fi-fantasy" count="2"/>
+      <shelf name="sci_fi-space_opera" count="2"/>
+      <shelf name="sci_fi" count="2"/>
+      <shelf name="part-of-a-series" count="2"/>
+      <shelf name="dnf" count="2"/>
+      <shelf name="2020-reads" count="2"/>
+      <shelf name="audio" count="2"/>
+      <shelf name="loved-it" count="2"/>
+      <shelf name="freebie" count="2"/>
+      <shelf name="to-read-own" count="2"/>
+      <shelf name="cyborg" count="2"/>
+      <shelf name="adult" count="2"/>
+      <shelf name="free" count="2"/>
+      <shelf name="1st-in-series" count="2"/>
+      <shelf name="military" count="2"/>
+      <shelf name="action" count="2"/>
+      <shelf name="si-fi" count="2"/>
+      <shelf name="b" count="2"/>
+      <shelf name="sff" count="2"/>
+      <shelf name="amazon" count="2"/>
+      <shelf name="kindle-owned" count="2"/>
+      <shelf name="tbr" count="2"/>
+      <shelf name="buroker-lindsay" count="2"/>
+      <shelf name="lindsay-buroker" count="2"/>
+      <shelf name="quit" count="2"/>
+      <shelf name="read-in-2019" count="2"/>
+      <shelf name="science-fiction-romance" count="2"/>
+      <shelf name="best-space-operas" count="1"/>
+      <shelf name="taking-to-college-fall-2020" count="1"/>
+      <shelf name="favorite" count="1"/>
+      <shelf name="cliffhanger-hate-this" count="1"/>
+      <shelf name="first-of-series" count="1"/>
+      <shelf name="space-opera-is-best-opera" count="1"/>
+      <shelf name="research" count="1"/>
+      <shelf name="ku-have" count="1"/>
+      <shelf name="get-kindle-unlimited" count="1"/>
+      <shelf name="owned-to-read" count="1"/>
+      <shelf name="in-omnibus" count="1"/>
+      <shelf name="suggestions" count="1"/>
+      <shelf name="readsome-didntgetinto" count="1"/>
+      <shelf name="digital-books" count="1"/>
+      <shelf name="own-but-not-read-yet" count="1"/>
+      <shelf name="free-ebooks-tbr" count="1"/>
+      <shelf name="may-read-later" count="1"/>
+      <shelf name="top" count="1"/>
+      <shelf name="in-series" count="1"/>
+      <shelf name="good" count="1"/>
+      <shelf name="owned-e-books" count="1"/>
+      <shelf name="ongoing-series" count="1"/>
+      <shelf name="military-scifi" count="1"/>
+      <shelf name="2020-kindleunlimited" count="1"/>
+      <shelf name="sci-fi-to-read" count="1"/>
+      <shelf name="collection" count="1"/>
+      <shelf name="future-reads" count="1"/>
+      <shelf name="recommended" count="1"/>
+      <shelf name="middle-earth-floab" count="1"/>
+      <shelf name="five-stars" count="1"/>
+      <shelf name="sci-fy" count="1"/>
+      <shelf name="pirates" count="1"/>
+      <shelf name="military-mercenary-armies" count="1"/>
+      <shelf name="unlimited-books" count="1"/>
+      <shelf name="kindle-unlimited-eligibles" count="1"/>
+      <shelf name="series-opener" count="1"/>
+      <shelf name="adult-fiction" count="1"/>
+      <shelf name="sf-science-fiction" count="1"/>
+      <shelf name="young-adult" count="1"/>
+      <shelf name="to-inifinty-and-beyond" count="1"/>
+      <shelf name="next-series" count="1"/>
+      <shelf name="kindle-books" count="1"/>
+      <shelf name="k-unlimited-tbr" count="1"/>
+      <shelf name="what-the-fish-are-you-waiting-for" count="1"/>
+      <shelf name="my-kindle" count="1"/>
+      <shelf name="kindle-own" count="1"/>
+      <shelf name="light-hearted-good" count="1"/>
+      <shelf name="series-tbr" count="1"/>
+      <shelf name="sci-fi-dystopian" count="1"/>
+    </popular_shelves>
+    <book_links>
+      <book_link>
+        <id>8</id>
+        <name>Libraries</name>
+        <link>https://www.goodreads.com/book_link/follow/8</link>
+      </book_link>
+    </book_links>
+    <buy_links>
+      <buy_link>
+        <id>1</id>
+        <name>Amazon</name>
+        <link>https://www.goodreads.com/book_link/follow/1</link>
+      </buy_link>
+      <buy_link>
+        <id>10</id>
+        <name>Audible</name>
+        <link>https://www.goodreads.com/book_link/follow/10</link>
+      </buy_link>
+      <buy_link>
+        <id>3</id>
+        <name>Barnes &amp; Noble</name>
+        <link>https://www.goodreads.com/book_link/follow/3</link>
+      </buy_link>
+      <buy_link>
+        <id>1027</id>
+        <name>Walmart eBooks</name>
+        <link>https://www.goodreads.com/book_link/follow/1027</link>
+      </buy_link>
+      <buy_link>
+        <id>2102</id>
+        <name>Apple Books</name>
+        <link>https://www.goodreads.com/book_link/follow/2102</link>
+      </buy_link>
+      <buy_link>
+        <id>8036</id>
+        <name>Google Play</name>
+        <link>https://www.goodreads.com/book_link/follow/8036</link>
+      </buy_link>
+      <buy_link>
+        <id>4</id>
+        <name>Abebooks</name>
+        <link>https://www.goodreads.com/book_link/follow/4</link>
+      </buy_link>
+      <buy_link>
+        <id>882</id>
+        <name>Book Depository</name>
+        <link>https://www.goodreads.com/book_link/follow/882</link>
+      </buy_link>
+      <buy_link>
+        <id>5</id>
+        <name>Alibris</name>
+        <link>https://www.goodreads.com/book_link/follow/5</link>
+      </buy_link>
+      <buy_link>
+        <id>9</id>
+        <name>Indigo</name>
+        <link>https://www.goodreads.com/book_link/follow/9</link>
+      </buy_link>
+      <buy_link>
+        <id>107</id>
+        <name>Better World Books</name>
+        <link>https://www.goodreads.com/book_link/follow/107</link>
+      </buy_link>
+      <buy_link>
+        <id>7</id>
+        <name>IndieBound</name>
+        <link>https://www.goodreads.com/book_link/follow/7</link>
+      </buy_link>
+    </buy_links>
+    <series_works>
+      <series_work>
+        <id>1438963</id>
+        <user_position>1</user_position>
+        <series>
+          <id>261857</id>
+          <title><![CDATA[
+    Star Kingdom
+]]></title>
+          <description><![CDATA[
+    Star Kingdom is a science fiction series where the smart geeky heroes get to save the day.
+]]></description>
+          <note><![CDATA[
+]]></note>
+          <series_works_count>12</series_works_count>
+          <primary_work_count>8</primary_work_count>
+          <numbered>true</numbered>
+        </series>
+      </series_work>
+    </series_works>
+    <similar_books>
+      <book>
+        <id>46262359</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.UDlQ8SA166H9KRDpEkl1aQ]]></uri>
+        <title><![CDATA[Kestrel Class (Kestrel Class, #1)]]></title>
+        <title_without_series>Kestrel Class</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/46262359-kestrel-class]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>71250791</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>4389632</id>
+            <name>Toby Neighbors</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/4389632.Toby_Neighbors]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>50124891</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.irY_jRkd-Th9dqs-]]></uri>
+        <title><![CDATA[Jump Point (Kestrel Class, #2)]]></title>
+        <title_without_series>Jump Point</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/50124891-jump-point]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>71959743</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>4389632</id>
+            <name>Toby Neighbors</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/4389632.Toby_Neighbors]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>44782805</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.Pkx8GleSev07JXJKNqN_1w]]></uri>
+        <title><![CDATA[It Ain't Over... (Cole & Srexx #1)]]></title>
+        <title_without_series>It Ain't Over...</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/44782805-it-ain-t-over]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>69429015</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>17831865</id>
+            <name>Robert M. Kerns</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/17831865.Robert_M_Kerns]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>50830814</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.OChx2XfAgvoEo1bB]]></uri>
+        <title><![CDATA[Gravity Flux (Kestrel Class, #3)]]></title>
+        <title_without_series>Gravity Flux</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/50830814-gravity-flux]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>72788076</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>4389632</id>
+            <name>Toby Neighbors</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/4389632.Toby_Neighbors]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>49698121</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.bYsnIxIIQiJdJMzd]]></uri>
+        <title><![CDATA[...Till It's Over! (Cole & Srexx #2)]]></title>
+        <title_without_series>...Till It's Over!</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/49698121-till-it-s-over]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>71908540</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>17831865</id>
+            <name>Robert M. Kerns</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/17831865.Robert_M_Kerns]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>46005598</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.VMex_A1d7sPPjttgAj6Zug]]></uri>
+        <title><![CDATA[Sword of Mars (Starship's Mage, #7)]]></title>
+        <title_without_series>Sword of Mars</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/46005598-sword-of-mars]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>70872729</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>7737246</id>
+            <name>Glynn Stewart</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/7737246.Glynn_Stewart]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>51985192</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.pMathzdLpeIqsXpg]]></uri>
+        <title><![CDATA[Haven Ascendant (Cole & Srexx #3)]]></title>
+        <title_without_series>Haven Ascendant</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/51985192-haven-ascendant]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>72942933</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>17831865</id>
+            <name>Robert M. Kerns</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/17831865.Robert_M_Kerns]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>45276625</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.1esjGSArTRsKOZ8t-t2JVw]]></uri>
+        <title><![CDATA[Caspian's Fortune (Infinity's End #1)]]></title>
+        <title_without_series>Caspian's Fortune</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/45276625-caspian-s-fortune]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>69985787</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>18301611</id>
+            <name>Eric  Warren</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/18301611.Eric_Warren]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>48651429</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.DT1UmJ5sS4gBFZAH]]></uri>
+        <title>Junkyard Pirate</title>
+        <title_without_series>Junkyard Pirate</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/48651429-junkyard-pirate]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>73993814</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>8177955</id>
+            <name>Jamie McFarlane</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/8177955.Jamie_McFarlane]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>48714547</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.B7cvzb2XE4nU3Ew5]]></uri>
+        <title><![CDATA[Starship Sakira (Delphi in Space #1)]]></title>
+        <title_without_series>Starship Sakira</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/48714547-starship-sakira]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>74069975</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>17676912</id>
+            <name>Bob Blanton</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/17676912.Bob_Blanton]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>52373956</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.rd_83y48xLpAJkDE]]></uri>
+        <title><![CDATA[The Messenger (The Messenger #1)]]></title>
+        <title_without_series>The Messenger</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/52373956-the-messenger]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>73054802</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>13828892</id>
+            <name>J.N. Chaney</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/13828892.J_N_Chaney]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>51029301</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.Ax3I0TdVD0DWB0Pw]]></uri>
+        <title>Refuge (Exile Book 2)</title>
+        <title_without_series>Refuge</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/51029301-refuge]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>71795812</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>7737246</id>
+            <name>Glynn Stewart</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/7737246.Glynn_Stewart]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>52113461</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.GfMCE7-xX4NqLRE7]]></uri>
+        <title>Spacers: First Command</title>
+        <title_without_series>Spacers: First Command</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/52113461-spacers]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>72971420</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>5375087</id>
+            <name>Scott Bartlett</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/5375087.Scott_Bartlett]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>49061006</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.cXkrWzMVHEyBSvST]]></uri>
+        <title>Guardian Ship</title>
+        <title_without_series>Guardian Ship</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/49061006-guardian-ship]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages>398</num_pages>
+        <work>
+          <id>71889812</id>
+        </work>
+        <isbn/>
+        <isbn13>9781733514354</isbn13>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year>2019</publication_year>
+        <publication_month>7</publication_month>
+        <publication_day>1</publication_day>
+        <authors>
+          <author>
+            <id>7308139</id>
+            <name>Mark Wayne McGinnis</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/7308139.Mark_Wayne_McGinnis]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>44013071</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.9-KC7syApqpkki-T7Nt17w]]></uri>
+        <title>Ship's Log (The Alliance #1)</title>
+        <title_without_series>Ship's Log</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/44013071-ship-s-log]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>68428663</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>4775964</id>
+            <name>Lawrence P. White</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/4775964.Lawrence_P_White]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>48713765</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.X6I1J53XOOmAcr4D]]></uri>
+        <title><![CDATA[Delphi Station (Delphi in Space #3)]]></title>
+        <title_without_series>Delphi Station</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/48713765-delphi-station]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>75516432</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>17676912</id>
+            <name>Bob Blanton</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/17676912.Bob_Blanton]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>48719078</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.LNxs0NIFVZubkXdR]]></uri>
+        <title><![CDATA[Delphi City (Delphi in Space #2)]]></title>
+        <title_without_series>Delphi City</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/48719078-delphi-city]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>75516442</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>17676912</id>
+            <name>Bob Blanton</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/17676912.Bob_Blanton]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>48926959</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.S3wH8_GcEnBGtlsn]]></uri>
+        <title><![CDATA[Delphi Nation (Delphi in Space #4)]]></title>
+        <title_without_series>Delphi Nation</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/48926959-delphi-nation]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574617037l/48926959._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574617037l/48926959._SX98_.jpg]]></image_url>
+        <num_pages/>
+        <work>
+          <id>75516454</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.18</average_rating>
+        <ratings_count>2557</ratings_count>
+        <publication_year>2019</publication_year>
+        <publication_month>11</publication_month>
+        <publication_day>23</publication_day>
+        <authors>
+          <author>
+            <id>17676912</id>
+            <name>Bob Blanton</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/17676912.Bob_Blanton]]></link>
+          </author>
+        </authors>
+      </book>
+    </similar_books>
+  </book>
+</GoodreadsResponse>

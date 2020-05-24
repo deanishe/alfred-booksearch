@@ -6,20 +6,14 @@
 package main
 
 import (
-	"archive/zip"
 	"fmt"
-	"io"
-	"io/ioutil"
 	"os"
 	"path/filepath"
-	"regexp"
-	"unicode"
 
-	"github.com/bmatcuk/doublestar"
+	"github.com/deanishe/awgo/util"
+	"github.com/deanishe/awgo/util/build"
 	"github.com/magefile/mage/mg"
 	"github.com/magefile/mage/sh"
-	"golang.org/x/text/transform"
-	"golang.org/x/text/unicode/norm"
 )
 
 // Default target to run when none is specified
@@ -27,26 +21,35 @@ import (
 // var Default = Build
 
 var (
-	workDir string
-)
-
-var (
-	green  = "03ae03"
-	blue   = "5484f3"
-	red    = "b00000"
-	yellow = "f8ac30"
+	info     *build.Info
+	env      map[string]string
+	ldflags  string
+	workDir  string
+	buildDir = "./build"
+	distDir  = "./dist"
+	iconsDir = "./icons"
 )
 
 func init() {
 	var err error
+	if info, err = build.NewInfo(); err != nil {
+		panic(err)
+	}
 	if workDir, err = os.Getwd(); err != nil {
 		panic(err)
 	}
+	env = info.Env()
+	env["API_KEY"] = os.Getenv("GOODREADS_API_KEY")
+	env["API_SECRET"] = os.Getenv("GOODREADS_API_SECRET")
+	env["VERSION"] = info.Version
+	env["PKG_CLI"] = "go.deanishe.net/alfred-booksearch/pkg/cli"
+	env["PKG_GR"] = "go.deanishe.net/alfred-booksearch/pkg/gr"
+	ldflags = `-X "$PKG_GR.version=$VERSION" -X "$PKG_CLI.version=$VERSION" -X "$PKG_CLI.apiKey=$API_KEY" -X "$PKG_CLI.apiSecret=$API_SECRET"`
 }
 
 func mod(args ...string) error {
 	argv := append([]string{"mod"}, args...)
-	return sh.RunWith(alfredEnv(), "go", argv...)
+	return sh.RunWith(env, "go", argv...)
 }
 
 // Aliases are mage command aliases.
@@ -59,62 +62,67 @@ var Aliases = map[string]interface{}{
 
 // Build builds workflow in ./build
 func Build() error {
-	mg.Deps(cleanBuild, Icons)
-	// mg.Deps(Deps)
+	mg.Deps(cleanBuild)
 	fmt.Println("building ...")
 
-	if err := sh.RunWith(alfredEnv(), "go", "build", "-tags", "$TAGS", "-o", "./build/goodreads", "."); err != nil {
+	err := sh.RunWith(env,
+		"go", "build", "-ldflags", ldflags,
+		"-o", "./build/alfred-booksearch", ".",
+	)
+	if err != nil {
 		return err
 	}
 
-	// link files to ./build
-	globs := []struct {
-		glob, dest string
+	globs := build.Globs(
+		"*.png",
+		"info.plist",
+		"*.html",
+		"README.md",
+		"LICENCE.txt",
+		"icons/*.png",
+		"scripts/*",
+	)
+
+	if err := build.SymlinkGlobs(buildDir, globs...); err != nil {
+		return err
+	}
+
+	scriptIcons := []struct {
+		script, icon string
 	}{
-		{"*.png", ""},
-		{"info.plist", ""},
-		{"*.html", ""},
-		{"README.md", ""},
-		{"LICENCE.txt", ""},
-		{"icons/*.png", ""},
+		{"Add to Currently Reading", "shelf"},
+		{"Add to Shelves", "shelf"},
+		{"Add to Want to Read", "shelf"},
+		{"Copy Goodreads Link", "link"},
+		{"Mark as Read", "shelf"},
+		{"Open Author Page", "author"},
+		{"Open Book Page", "link"},
+		{"View Author’s Books", "author"},
+		{"View Series", "series"},
+		{"View Series Online", "link"},
+		{"View Similar Books", "link"},
 	}
 
-	pairs := []struct {
-		src, dest string
-	}{}
-
-	for _, cfg := range globs {
-		files, err := doublestar.Glob(cfg.glob)
-		if err != nil {
-			return err
-		}
-
-		for _, p := range files {
-			dest := filepath.Join("./build", cfg.dest, p)
-			pairs = append(pairs, struct{ src, dest string }{p, dest})
-		}
-	}
-
-	for _, p := range pairs {
-
-		var (
-			relPath string
-			dir     = filepath.Dir(p.dest)
-			err     error
-		)
-
-		if err = os.MkdirAll(dir, 0755); err != nil {
-			return err
-		}
-		if relPath, err = filepath.Rel(filepath.Dir(p.dest), p.src); err != nil {
-			return err
-		}
-		fmt.Printf("%s  -->  %s\n", p.dest, relPath)
-		if err := os.Symlink(relPath, p.dest); err != nil {
+	for _, st := range scriptIcons {
+		target := filepath.Join(buildDir, "icons", st.icon+".png")
+		link := filepath.Join(buildDir, "scripts", st.script+".png")
+		if err := build.Symlink(link, target, true); err != nil {
 			return err
 		}
 	}
+	icons := []struct {
+		src, dst string
+	}{
+		{"icons/config.png", "6B3CB906-52D2-4266-8E5F-2F3C1155A05C.png"},
+		{"icons/shelf.png", "303CAB58-86FE-497C-995C-11F659969015.png"},
+	}
 
+	for _, i := range icons {
+		src, dst := filepath.Join(buildDir, i.src), filepath.Join(buildDir, i.dst)
+		if err := build.Symlink(dst, src, true); err != nil {
+			return err
+		}
+	}
 	return nil
 }
 
@@ -122,154 +130,32 @@ func Build() error {
 func Run() error {
 	mg.Deps(Build)
 	fmt.Println("running ...")
-	if err := os.Chdir("./build"); err != nil {
-		return err
-	}
-	defer os.Chdir(workDir)
-
-	return sh.RunWith(alfredEnv(), "./goodreads", "-h")
+	return sh.RunWith(env, buildDir+"/alfred-booksearch", "-h")
 }
 
 // Dist build an .alfredworkflow file in ./dist
 func Dist() error {
 	mg.SerialDeps(Clean, Build)
-	if err := os.MkdirAll("./dist", 0700); err != nil {
-		return err
-	}
-
-	var (
-		name = slugify(fmt.Sprintf("%s-%s.alfredworkflow", Name, Version))
-		path = filepath.Join("./dist", name)
-		f    *os.File
-		w    *zip.Writer
-		err  error
-	)
-
-	fmt.Println("building .alfredworkflow file ...")
-
-	if _, err = os.Stat(path); err == nil {
-		if err = os.Remove(path); err != nil {
-			return err
-		}
-		fmt.Println("deleted old .alfredworkflow file")
-	}
-
-	if f, err = os.Create(path); err != nil {
-		return err
-	}
-	defer f.Close()
-
-	w = zip.NewWriter(f)
-
-	err = filepath.Walk("./build", func(path string, fi os.FileInfo, err error) error {
-
-		if err != nil {
-			return err
-		}
-
-		if fi.IsDir() {
-			return nil
-		}
-
-		var (
-			name, orig string
-			info       os.FileInfo
-			mode       os.FileMode
-		)
-		if name, err = filepath.Rel("./build", path); err != nil {
-			return err
-		}
-		if orig, err = filepath.EvalSymlinks(path); err != nil {
-			return err
-		}
-		if info, err = os.Stat(orig); err != nil {
-			return err
-		}
-		mode = info.Mode()
-
-		fmt.Printf("%v  %s\n", mode, name)
-
-		var (
-			f  *os.File
-			zf io.Writer
-			fh *zip.FileHeader
-		)
-
-		fh = &zip.FileHeader{
-			Name:   name,
-			Method: zip.Deflate,
-		}
-
-		// fh.SetModTime(fi.ModTime())
-		fh.SetMode(mode.Perm())
-
-		if f, err = os.Open(orig); err != nil {
-			return err
-		}
-		defer f.Close()
-
-		if zf, err = w.CreateHeader(fh); err != nil {
-			return err
-		}
-		if _, err = io.Copy(zf, f); err != nil {
-			return err
-		}
-
-		return nil
-	})
-
+	fmt.Printf("exporting %q to %q ...\n", buildDir, distDir)
+	p, err := build.Export(buildDir, distDir)
 	if err != nil {
 		return err
 	}
 
-	if err = w.Close(); err != nil {
-		return err
-	}
-
-	fmt.Printf("wrote %s\n", path)
-
+	fmt.Printf("built workflow file %q\n", p)
 	return nil
-}
-
-var (
-	rxAlphaNum  = regexp.MustCompile(`[^a-zA-Z0-9.-]+`)
-	rxMultiDash = regexp.MustCompile(`-+`)
-)
-
-// make s filesystem- and URL-safe.
-func slugify(s string) string {
-	s = fold(s)
-	s = rxAlphaNum.ReplaceAllString(s, "-")
-	s = rxMultiDash.ReplaceAllString(s, "-")
-	return s
-}
-
-var stripper = transform.Chain(norm.NFD, transform.RemoveFunc(isMn))
-
-// isMn returns true if rune is a non-spacing mark
-func isMn(r rune) bool {
-	return unicode.Is(unicode.Mn, r) // Mn: non-spacing mark
-}
-
-// fold strips diacritics from string.
-func fold(s string) string {
-	ascii, _, err := transform.String(stripper, s)
-	if err != nil {
-		panic(err)
-	}
-	return ascii
 }
 
 // Config display configuration
 func Config() {
-	fmt.Println("     Workflow name:", Name)
-	fmt.Println("         Bundle ID:", BundleID)
-	fmt.Println("  Workflow version:", Version)
-	fmt.Println("  Preferences file:", PrefsFile)
-	fmt.Println("       Sync folder:", SyncFolder)
-	fmt.Println("Workflow directory:", WorkflowDir)
-	fmt.Println("    Data directory:", DataDir)
-	fmt.Println("   Cache directory:", CacheDir)
+	fmt.Println("     Workflow name:", info.Name)
+	fmt.Println("         Bundle ID:", info.BundleID)
+	fmt.Println("  Workflow version:", info.Version)
+	fmt.Println("  Preferences file:", info.AlfredPrefsBundle)
+	fmt.Println("       Sync folder:", info.AlfredSyncDir)
+	fmt.Println("Workflow directory:", info.AlfredWorkflowDir)
+	fmt.Println("    Data directory:", info.DataDir)
+	fmt.Println("   Cache directory:", info.CacheDir)
 }
 
 // Link symlinks ./build directory to Alfred's workflow directory.
@@ -277,10 +163,10 @@ func Link() error {
 	mg.Deps(Build)
 
 	fmt.Println("linking ./build to workflow directory ...")
-	target := filepath.Join(WorkflowDir, BundleID)
+	target := filepath.Join(info.AlfredWorkflowDir, info.BundleID)
 	// fmt.Printf("target: %s\n", target)
 
-	if exists(target) {
+	if util.PathExists(target) {
 		fmt.Println("removing existing workflow ...")
 	}
 	// try to remove it anyway, as dangling symlinks register as existing
@@ -288,54 +174,11 @@ func Link() error {
 		return err
 	}
 
-	build, err := filepath.Abs("build")
+	src, err := filepath.Abs(buildDir)
 	if err != nil {
 		return err
 	}
-	src, err := filepath.Rel(filepath.Dir(target), build)
-	if err != nil {
-		return err
-	}
-
-	if err := os.Symlink(src, target); err != nil {
-		return err
-	}
-
-	fmt.Printf("symlinked workflow to %s\n", target)
-
-	return nil
-}
-
-// Icons generate icons
-func Icons() error {
-
-	copies := []struct {
-		src, dest, colour string
-	}{
-		// {"calendar.png", "icon.png", blue},
-		// {"calendar.png", "calendars.png", blue},
-		// {"calendar.png", "calendar-today.png", green},
-		{"docs.png", "help.png", green},
-	}
-
-	for i, cfg := range copies {
-
-		src := filepath.Join("icons", cfg.src)
-		dest := filepath.Join("icons", cfg.dest)
-
-		if exists(dest) {
-			fmt.Printf("[%d/%d] skipped existing: %s\n", i+1, len(copies), dest)
-			continue
-		}
-
-		if err := copyImage(src, dest, cfg.colour); err != nil {
-			return err
-		}
-	}
-
-	return rotateIcon("./icons/spinner.png", []int{15, 30})
-
-	// return nil
+	return build.Symlink(target, src, true)
 }
 
 // Deps ensure dependencies
@@ -362,42 +205,16 @@ func cleanDeps() error {
 	return mod("tidy", "-v")
 }
 
-func cleanDir(name string, exclude ...string) error {
-
-	if _, err := os.Stat(name); err != nil {
-		return nil
-	}
-
-	infos, err := ioutil.ReadDir(name)
-	if err != nil {
+// remove & recreate directory
+func cleanDir(name string) error {
+	if err := sh.Rm(name); err != nil {
 		return err
 	}
-	for _, fi := range infos {
-
-		var match bool
-		for _, glob := range exclude {
-			if match, err = doublestar.Match(glob, fi.Name()); err != nil {
-				return err
-			} else if match {
-				break
-			}
-		}
-
-		if match {
-			fmt.Printf("excluded: %s\n", fi.Name())
-			continue
-		}
-
-		p := filepath.Join(name, fi.Name())
-		if err := os.RemoveAll(p); err != nil {
-			return err
-		}
-	}
-	return nil
+	return os.MkdirAll(name, 0755)
 }
 
 func cleanBuild() error {
-	return cleanDir("./build")
+	return cleanDir(buildDir)
 }
 
 func cleanMage() error {
@@ -406,5 +223,5 @@ func cleanMage() error {
 
 // CleanIcons delete all generated icons from ./icons
 func CleanIcons() error {
-	return cleanDir("./icons")
+	return cleanDir(iconsDir)
 }
