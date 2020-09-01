@@ -1,0 +1,790 @@
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[W50Kq7OIhVFLTy9daYLlDw]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+    <id>50740363</id>
+    <title>Forged (Alex Verus, #11)</title>
+    <isbn><![CDATA[0356511146]]></isbn>
+    <isbn13><![CDATA[9780356511146]]></isbn13>
+    <asin><![CDATA[]]></asin>
+    <kindle_asin><![CDATA[]]></kindle_asin>
+    <marketplace_id><![CDATA[]]></marketplace_id>
+    <country_code><![CDATA[DE]]></country_code>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591956617l/50740363._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591956617l/50740363._SY75_.jpg</small_image_url>
+    <publication_year>2020</publication_year>
+    <publication_month>12</publication_month>
+    <publication_day>3</publication_day>
+    <publisher/>
+    <language_code>eng</language_code>
+    <is_ebook>false</is_ebook>
+    <description><![CDATA[Alex Verus faces his dark side in this return to the bestselling urban fantasy series about a London-based mage.<br /><br />To protect his friends, Mage Alex Verus has had to change--and embrace his dark side. But the life mage Anne has changed too, and made a bond with a dangerous power. She's going after everyone she's got a grudge against--and it's a long list.<br /><br />In the meantime, Alex has to deal with his arch-enemy, Levistus. The Council's death squads are hunting Alex as well as Anne, and the only way for Alex to stop them is to end his long war with Levistus and the Council, by whatever means necessary. It will take everything Alex has to stay a step ahead of the Council and stop Anne from letting the world burn.]]></description>
+    <work>
+      <id type="integer">75767304</id>
+      <books_count type="integer">5</books_count>
+      <best_book_id type="integer">50740363</best_book_id>
+      <reviews_count type="integer">842</reviews_count>
+      <ratings_sum type="integer">116</ratings_sum>
+      <ratings_count type="integer">27</ratings_count>
+      <text_reviews_count type="integer">2</text_reviews_count>
+      <original_publication_year type="integer">2020</original_publication_year>
+      <original_publication_month type="integer">11</original_publication_month>
+      <original_publication_day type="integer">24</original_publication_day>
+      <original_title>Forged</original_title>
+      <original_language_id type="integer" nil="true"/>
+      <media_type>book</media_type>
+      <rating_dist>5:15|4:6|3:5|2:1|1:0|total:27</rating_dist>
+      <desc_user_id type="integer">59458347</desc_user_id>
+      <default_chaptering_book_id type="integer" nil="true"/>
+      <default_description_language_code nil="true"/>
+      <work_uri>kca://work/amzn1.gr.work.v3.sSXw5R1DPH6ZjDk2</work_uri>
+    </work>
+    <average_rating>4.30</average_rating>
+    <num_pages><![CDATA[]]></num_pages>
+    <format><![CDATA[]]></format>
+    <edition_information><![CDATA[]]></edition_information>
+    <ratings_count><![CDATA[17]]></ratings_count>
+    <text_reviews_count><![CDATA[2]]></text_reviews_count>
+    <url><![CDATA[https://www.goodreads.com/book/show/50740363-forged]]></url>
+    <link><![CDATA[https://www.goodreads.com/book/show/50740363-forged]]></link>
+    <authors>
+      <author>
+        <id>849723</id>
+        <name>Benedict Jacka</name>
+        <role/>
+        <image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1325965585p5/849723.jpg]]></image_url>
+        <small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1325965585p2/849723.jpg]]></small_image_url>
+        <link><![CDATA[https://www.goodreads.com/author/show/849723.Benedict_Jacka]]></link>
+        <average_rating>4.12</average_rating>
+        <ratings_count>99168</ratings_count>
+        <text_reviews_count>5620</text_reviews_count>
+      </author>
+    </authors>
+    <reviews_widget><![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/50740363-forged">Forged Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0356511146&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/50740363-forged?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]></reviews_widget>
+    <popular_shelves>
+      <shelf name="to-read" count="764"/>
+      <shelf name="fantasy" count="11"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="urban-fantasy" count="7"/>
+      <shelf name="series" count="5"/>
+      <shelf name="currently-reading" count="3"/>
+      <shelf name="fiction" count="3"/>
+      <shelf name="unreleased" count="3"/>
+      <shelf name="alex-verus" count="3"/>
+      <shelf name="not-out-yet" count="3"/>
+      <shelf name="coming-soon" count="3"/>
+      <shelf name="fantasy-urban" count="2"/>
+      <shelf name="urban" count="2"/>
+      <shelf name="2020-release" count="2"/>
+      <shelf name="sci-fi-fantasy" count="2"/>
+      <shelf name="forthcoming" count="2"/>
+      <shelf name="wishlist-2020" count="2"/>
+      <shelf name="december-release" count="1"/>
+      <shelf name="my-wishlist" count="1"/>
+      <shelf name="ntg" count="1"/>
+      <shelf name="genre-urban-fantasy" count="1"/>
+      <shelf name="awaiting_release" count="1"/>
+      <shelf name="edelweiss" count="1"/>
+      <shelf name="as-of-yet-unpublished" count="1"/>
+      <shelf name="unpublished" count="1"/>
+      <shelf name="to-obtain" count="1"/>
+      <shelf name="wait" count="1"/>
+      <shelf name="to-read-unowned" count="1"/>
+      <shelf name="1_ultimate-wishlist-2020" count="1"/>
+      <shelf name="looking-for" count="1"/>
+      <shelf name="november-2020-releases" count="1"/>
+      <shelf name="nov-2020" count="1"/>
+      <shelf name="not-released-yet" count="1"/>
+      <shelf name="series-to-continue-uf" count="1"/>
+      <shelf name="should-read" count="1"/>
+      <shelf name="new-series-installment-tbr" count="1"/>
+      <shelf name="not-in-tpl" count="1"/>
+      <shelf name="waiting-for-publication" count="1"/>
+      <shelf name="books-to-buy" count="1"/>
+      <shelf name="find-copy" count="1"/>
+      <shelf name="next-to-read" count="1"/>
+      <shelf name="buy" count="1"/>
+      <shelf name="nyp-get-this" count="1"/>
+      <shelf name="sci-fi-fantasy-paranormal" count="1"/>
+      <shelf name="added-in-may-2020" count="1"/>
+      <shelf name="not-released-to-read" count="1"/>
+      <shelf name="audio_wanted" count="1"/>
+      <shelf name="2021-published1" count="1"/>
+      <shelf name="tbr-2020" count="1"/>
+      <shelf name="to-publish" count="1"/>
+      <shelf name="ongoing" count="1"/>
+      <shelf name="london" count="1"/>
+      <shelf name="to-be-published" count="1"/>
+      <shelf name="fantasy-paranormal" count="1"/>
+      <shelf name="witches-and-wizards" count="1"/>
+      <shelf name="paranormal" count="1"/>
+      <shelf name="really-want-to-read" count="1"/>
+      <shelf name="on-deck" count="1"/>
+      <shelf name="nov-24" count="1"/>
+      <shelf name="looking-forward-to-reading" count="1"/>
+      <shelf name="alex-varus" count="1"/>
+      <shelf name="2020-want-to-read" count="1"/>
+      <shelf name="sequel-watch" count="1"/>
+      <shelf name="preordered" count="1"/>
+      <shelf name="to-read-possible-with-aaron" count="1"/>
+      <shelf name="2-read-when-all-books-come-out" count="1"/>
+      <shelf name="a-sequels" count="1"/>
+      <shelf name="waiting-to-read" count="1"/>
+      <shelf name="_waiting-for-it-to-come-out" count="1"/>
+      <shelf name="cannot-wait" count="1"/>
+      <shelf name="upcoming" count="1"/>
+      <shelf name="to-read-2" count="1"/>
+      <shelf name="overdrive-yes" count="1"/>
+      <shelf name="prequels-sequels-and-maybe-equals" count="1"/>
+      <shelf name="2020-releases" count="1"/>
+      <shelf name="not-yet-published" count="1"/>
+      <shelf name="wish-list" count="1"/>
+      <shelf name="december-10-2020" count="1"/>
+      <shelf name="once-series-finishes" count="1"/>
+      <shelf name="to-find" count="1"/>
+      <shelf name="can-t-wait" count="1"/>
+      <shelf name="priority-reading" count="1"/>
+      <shelf name="x-kindle" count="1"/>
+      <shelf name="on-order" count="1"/>
+      <shelf name="not-published" count="1"/>
+      <shelf name="to-read-continuation-series" count="1"/>
+      <shelf name="2020-planned-books" count="1"/>
+      <shelf name="my-current-series" count="1"/>
+      <shelf name="jacka-benedict" count="1"/>
+      <shelf name="10" count="1"/>
+      <shelf name="witches-wizards" count="1"/>
+      <shelf name="lead-male" count="1"/>
+      <shelf name="_on-deck" count="1"/>
+      <shelf name="to-be-released" count="1"/>
+      <shelf name="series-alexverus" count="1"/>
+      <shelf name="currently-waiting" count="1"/>
+      <shelf name="1own" count="1"/>
+      <shelf name="fantasy-alt-world" count="1"/>
+      <shelf name="unfinished-series" count="1"/>
+      <shelf name="monitoring" count="1"/>
+    </popular_shelves>
+    <book_links>
+      <book_link>
+        <id>8</id>
+        <name>Libraries</name>
+        <link>https://www.goodreads.com/book_link/follow/8</link>
+      </book_link>
+    </book_links>
+    <buy_links>
+      <buy_link>
+        <id>1</id>
+        <name>Amazon</name>
+        <link>https://www.goodreads.com/book_link/follow/1</link>
+      </buy_link>
+      <buy_link>
+        <id>10</id>
+        <name>Audible</name>
+        <link>https://www.goodreads.com/book_link/follow/10</link>
+      </buy_link>
+      <buy_link>
+        <id>3</id>
+        <name>Barnes &amp; Noble</name>
+        <link>https://www.goodreads.com/book_link/follow/3</link>
+      </buy_link>
+      <buy_link>
+        <id>1027</id>
+        <name>Walmart eBooks</name>
+        <link>https://www.goodreads.com/book_link/follow/1027</link>
+      </buy_link>
+      <buy_link>
+        <id>2102</id>
+        <name>Apple Books</name>
+        <link>https://www.goodreads.com/book_link/follow/2102</link>
+      </buy_link>
+      <buy_link>
+        <id>8036</id>
+        <name>Google Play</name>
+        <link>https://www.goodreads.com/book_link/follow/8036</link>
+      </buy_link>
+      <buy_link>
+        <id>4</id>
+        <name>Abebooks</name>
+        <link>https://www.goodreads.com/book_link/follow/4</link>
+      </buy_link>
+      <buy_link>
+        <id>882</id>
+        <name>Book Depository</name>
+        <link>https://www.goodreads.com/book_link/follow/882</link>
+      </buy_link>
+      <buy_link>
+        <id>5</id>
+        <name>Alibris</name>
+        <link>https://www.goodreads.com/book_link/follow/5</link>
+      </buy_link>
+      <buy_link>
+        <id>9</id>
+        <name>Indigo</name>
+        <link>https://www.goodreads.com/book_link/follow/9</link>
+      </buy_link>
+      <buy_link>
+        <id>107</id>
+        <name>Better World Books</name>
+        <link>https://www.goodreads.com/book_link/follow/107</link>
+      </buy_link>
+      <buy_link>
+        <id>7</id>
+        <name>IndieBound</name>
+        <link>https://www.goodreads.com/book_link/follow/7</link>
+      </buy_link>
+    </buy_links>
+    <series_works>
+      <series_work>
+        <id>1555863</id>
+        <user_position>11</user_position>
+        <series>
+          <id>71196</id>
+          <title><![CDATA[
+    Alex Verus
+]]></title>
+          <description><![CDATA[
+]]></description>
+          <note><![CDATA[
+]]></note>
+          <series_works_count>12</series_works_count>
+          <primary_work_count>11</primary_work_count>
+          <numbered>true</numbered>
+        </series>
+      </series_work>
+    </series_works>
+    <similar_books>
+      <book>
+        <id>13413589</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.aDUKE0VczTDkfHCBuFR2Xw]]></uri>
+        <title><![CDATA[Frost Burned (Mercy Thompson, #7)]]></title>
+        <title_without_series>Frost Burned</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/13413589-frost-burned]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344299919l/13413589._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344299919l/13413589._SX98_.jpg]]></image_url>
+        <num_pages>342</num_pages>
+        <work>
+          <id>15955708</id>
+        </work>
+        <isbn>0441020011</isbn>
+        <isbn13>9780441020010</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2013</publication_year>
+        <publication_month>3</publication_month>
+        <publication_day>5</publication_day>
+        <authors>
+          <author>
+            <id>40563</id>
+            <name>Patricia Briggs</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>17562900</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.Kd02UrJ78CMItCSj-8dJqg]]></uri>
+        <title><![CDATA[Night Broken (Mercy Thompson, #8)]]></title>
+        <title_without_series>Night Broken</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/17562900-night-broken]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379437095l/17562900._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379437095l/17562900._SX98_.jpg]]></image_url>
+        <num_pages>341</num_pages>
+        <work>
+          <id>24495112</id>
+        </work>
+        <isbn>042525674X</isbn>
+        <isbn13>9780425256749</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2014</publication_year>
+        <publication_month>3</publication_month>
+        <publication_day>11</publication_day>
+        <authors>
+          <author>
+            <id>40563</id>
+            <name>Patricia Briggs</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>25776210</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.5NgAvAK3ng7e2fngAG3MuA]]></uri>
+        <title><![CDATA[Fire Touched (Mercy Thompson, #9)]]></title>
+        <title_without_series>Fire Touched</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/25776210-fire-touched]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441912000l/25776210._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441912000l/25776210._SX98_.jpg]]></image_url>
+        <num_pages>342</num_pages>
+        <work>
+          <id>30158053</id>
+        </work>
+        <isbn>0425256766</isbn>
+        <isbn13>9780425256763</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2016</publication_year>
+        <publication_month>3</publication_month>
+        <publication_day>8</publication_day>
+        <authors>
+          <author>
+            <id>40563</id>
+            <name>Patricia Briggs</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>45016688</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.GjjfoXmTvmqJTzGAzp7OlQ]]></uri>
+        <title><![CDATA[False Value (Rivers of London, #8)]]></title>
+        <title_without_series>False Value</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/45016688-false-value]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564222811l/45016688._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564222811l/45016688._SX98_.jpg]]></image_url>
+        <num_pages>416</num_pages>
+        <work>
+          <id>69684460</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2020</publication_year>
+        <publication_month>2</publication_month>
+        <publication_day>20</publication_day>
+        <authors>
+          <author>
+            <id>363130</id>
+            <name>Ben Aaronovitch</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/363130.Ben_Aaronovitch]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>1412138</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.szioNm6zGGk0MH82B_mAqw]]></uri>
+        <title><![CDATA[Iron Kissed (Mercy Thompson, #3)]]></title>
+        <title_without_series>Iron Kissed</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/1412138.Iron_Kissed]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358229529l/1412138._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358229529l/1412138._SX98_.jpg]]></image_url>
+        <num_pages>287</num_pages>
+        <work>
+          <id>1178926</id>
+        </work>
+        <isbn>0441015662</isbn>
+        <isbn13>9780441015665</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2008</publication_year>
+        <publication_month>1</publication_month>
+        <publication_day>2</publication_day>
+        <authors>
+          <author>
+            <id>40563</id>
+            <name>Patricia Briggs</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>30687916</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.MIe-JKUsBVB2SAh7-wzSyA]]></uri>
+        <title><![CDATA[Silence Fallen (Mercy Thompson, #10)]]></title>
+        <title_without_series>Silence Fallen</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/30687916-silence-fallen]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468500884l/30687916._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468500884l/30687916._SX98_.jpg]]></image_url>
+        <num_pages>371</num_pages>
+        <work>
+          <id>44701525</id>
+        </work>
+        <isbn>0425281272</isbn>
+        <isbn13>9780425281277</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2017</publication_year>
+        <publication_month>3</publication_month>
+        <publication_day>7</publication_day>
+        <authors>
+          <author>
+            <id>40563</id>
+            <name>Patricia Briggs</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>285205</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.zlXYyW1fctVUueBSNJYktw]]></uri>
+        <title><![CDATA[Blood Bound (Mercy Thompson, #2)]]></title>
+        <title_without_series>Blood Bound</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/285205.Blood_Bound]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358229157l/285205._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358229157l/285205._SX98_.jpg]]></image_url>
+        <num_pages>292</num_pages>
+        <work>
+          <id>2577848</id>
+        </work>
+        <isbn>0441014739</isbn>
+        <isbn13>9780441014736</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2007</publication_year>
+        <publication_month>1</publication_month>
+        <publication_day>30</publication_day>
+        <authors>
+          <author>
+            <id>40563</id>
+            <name>Patricia Briggs</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>39714651</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.l95h8qxUghCVcHrBKUISBQ]]></uri>
+        <title><![CDATA[Organ Grind (The Lazarus Codex #2)]]></title>
+        <title_without_series>Organ Grind</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/39714651-organ-grind]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>61379669</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>14950093</id>
+            <name>E.A. Copen</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/14950093.E_A_Copen]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>40189401</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.j_sYL0Dt8Z_l9FKNybeIZA]]></uri>
+        <title><![CDATA[Shallow Grave (The Lazarus Codex #3)]]></title>
+        <title_without_series>Shallow Grave</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/40189401-shallow-grave]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages/>
+        <work>
+          <id>62365398</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>14950093</id>
+            <name>E.A. Copen</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/14950093.E_A_Copen]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>36534574</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.E5dDEs5IsJrgHLa8qwD_xw]]></uri>
+        <title><![CDATA[Lies Sleeping (Peter Grant, #7)]]></title>
+        <title_without_series>Lies Sleeping</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/36534574-lies-sleeping]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517326409l/36534574._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517326409l/36534574._SX98_.jpg]]></image_url>
+        <num_pages>406</num_pages>
+        <work>
+          <id>58260751</id>
+        </work>
+        <isbn>1473207819</isbn>
+        <isbn13>9781473207813</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2018</publication_year>
+        <publication_month>11</publication_month>
+        <publication_day>15</publication_day>
+        <authors>
+          <author>
+            <id>363130</id>
+            <name>Ben Aaronovitch</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/363130.Ben_Aaronovitch]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>49353950</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.tF3zcyVA8EQdv-mM]]></uri>
+        <title><![CDATA[Sweep with Me (Innkeeper Chronicles, #4.5)]]></title>
+        <title_without_series>Sweep with Me</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/49353950-sweep-with-me]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages>140</num_pages>
+        <work>
+          <id>74792717</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year/>
+        <publication_month/>
+        <publication_day/>
+        <authors>
+          <author>
+            <id>21748</id>
+            <name>Ilona Andrews</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>49779563</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v3.XO6GIVojjQshhkjj]]></uri>
+        <title><![CDATA[The Locust Job (Daniel Faust, #9)]]></title>
+        <title_without_series>The Locust Job</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/49779563-the-locust-job]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584325441l/49779563._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584325441l/49779563._SX98_.jpg]]></image_url>
+        <num_pages>272</num_pages>
+        <work>
+          <id>74914020</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2020</publication_year>
+        <publication_month>1</publication_month>
+        <publication_day>1</publication_day>
+        <authors>
+          <author>
+            <id>8180684</id>
+            <name>Craig Schaefer</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/8180684.Craig_Schaefer]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>25026912</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.O-Ko0KSn7J9k3QyS1A76Kg]]></uri>
+        <title><![CDATA[Storm Cursed (Mercy Thompson, #11)]]></title>
+        <title_without_series>Storm Cursed</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/25026912-storm-cursed]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530631118l/25026912._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530631118l/25026912._SX98_.jpg]]></image_url>
+        <num_pages>384</num_pages>
+        <work>
+          <id>44701530</id>
+        </work>
+        <isbn/>
+        <isbn13/>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2019</publication_year>
+        <publication_month>5</publication_month>
+        <publication_day>7</publication_day>
+        <authors>
+          <author>
+            <id>40563</id>
+            <name>Patricia Briggs</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>668860</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.xgAm0_tGS1hwPO0U-jqHgg]]></uri>
+        <title><![CDATA[The Second Generation (Dragonlance: The Second Generation, #1)]]></title>
+        <title_without_series>The Second Generation</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/668860.The_Second_Generation]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages>440</num_pages>
+        <work>
+          <id>89589</id>
+        </work>
+        <isbn>0786902604</isbn>
+        <isbn13>9780786902606</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>1995</publication_year>
+        <publication_month>2</publication_month>
+        <publication_day>21</publication_day>
+        <authors>
+          <author>
+            <id>869</id>
+            <name>Margaret Weis</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/869.Margaret_Weis]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>28514</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.hALElgqZjJoBJrh8VwoqlA]]></uri>
+        <title><![CDATA[Dragons of a Vanished Moon (Dragonlance: The War of Souls, #3)]]></title>
+        <title_without_series>Dragons of a Vanished Moon</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/28514.Dragons_of_a_Vanished_Moon]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages>610</num_pages>
+        <work>
+          <id>906736</id>
+        </work>
+        <isbn>0786929502</isbn>
+        <isbn13>9780786929504</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2003</publication_year>
+        <publication_month>3</publication_month>
+        <publication_day>1</publication_day>
+        <authors>
+          <author>
+            <id>869</id>
+            <name>Margaret Weis</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/869.Margaret_Weis]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>2264142</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.e1BbchdhWZdN2rp15Jw48g]]></uri>
+        <title>A Game Of Thrones preview</title>
+        <title_without_series>A Game Of Thrones preview</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/2264142.A_Game_Of_Thrones_preview]]></link>
+        <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375859512l/2264142._SY75_.jpg]]></small_image_url>
+        <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375859512l/2264142._SX98_.jpg]]></image_url>
+        <num_pages/>
+        <work>
+          <id>21802573</id>
+        </work>
+        <isbn>0006482759</isbn>
+        <isbn13>9780006482758</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>1996</publication_year>
+        <publication_month>1</publication_month>
+        <publication_day>1</publication_day>
+        <authors>
+          <author>
+            <id>346732</id>
+            <name>George R.R. Martin</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>259858</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.9e8prWsEbDR86Y-cdL1eow]]></uri>
+        <title><![CDATA[Dragons of a Fallen Sun (Dragonlance: The War of Souls, #1)]]></title>
+        <title_without_series>Dragons of a Fallen Sun</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/259858.Dragons_of_a_Fallen_Sun]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages>627</num_pages>
+        <work>
+          <id>856</id>
+        </work>
+        <isbn>0786918071</isbn>
+        <isbn13>9780786918072</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2001</publication_year>
+        <publication_month>1</publication_month>
+        <publication_day>1</publication_day>
+        <authors>
+          <author>
+            <id>869</id>
+            <name>Margaret Weis</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/869.Margaret_Weis]]></link>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>534420</id>
+        <uri><![CDATA[kca://book/amzn1.gr.book.v1.vBT4iH0gFbvJIszwVrXZiA]]></uri>
+        <title><![CDATA[Dragons of a Lost Star (Dragonlance: The War of Souls, #2)]]></title>
+        <title_without_series>Dragons of a Lost Star</title_without_series>
+        <link><![CDATA[https://www.goodreads.com/book/show/534420.Dragons_of_a_Lost_Star]]></link>
+        <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+        <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+        <num_pages>458</num_pages>
+        <work>
+          <id>1219151</id>
+        </work>
+        <isbn>0786918179</isbn>
+        <isbn13>9780786918171</isbn13>
+        <average_rating>4.30</average_rating>
+        <ratings_count>27</ratings_count>
+        <publication_year>2001</publication_year>
+        <publication_month>5</publication_month>
+        <publication_day>1</publication_day>
+        <authors>
+          <author>
+            <id>869</id>
+            <name>Margaret Weis</name>
+            <link><![CDATA[https://www.goodreads.com/author/show/869.Margaret_Weis]]></link>
+          </author>
+        </authors>
+      </book>
+    </similar_books>
+  </book>
+</GoodreadsResponse>

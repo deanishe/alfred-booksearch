@@ -6,20 +6,7 @@
 	<string>net.deanishe.alfred.goodreads</string>
 	<key>connections</key>
 	<dict>
-		<key>0C0BAA57-2183-47B7-ADF7-B2BFF95C0B00</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>ED185B22-78AD-41AB-BD90-74B2C99A4FED</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>228F2D59-495A-43A0-BBCE-BACE4B26F939</key>
+		<key>22FC81CE-C782-4476-977B-13B04A1710DA</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
@@ -32,20 +19,7 @@
 				<true/>
 			</dict>
 		</array>
-		<key>274ABB63-5B3B-42DD-8CC4-CF5C8B855B29</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>9D850B6A-2748-4C61-A97C-C011DD03E68A</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>58F050EC-1328-4D0B-8A7B-9D774BD6612F</key>
+		<key>2B5BCC87-D7E1-4BF5-B0F4-7987C38B9453</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
@@ -55,14 +29,14 @@
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
-				<false/>
+				<true/>
 			</dict>
 		</array>
-		<key>634447CE-A818-4379-B1A7-5E1CDF821B0D</key>
+		<key>2BDD415D-E018-4F37-B732-19E96BA056BE</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>58F050EC-1328-4D0B-8A7B-9D774BD6612F</string>
+				<string>92B6FFFE-4B20-44C4-A1B3-4935B29D4688</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -71,11 +45,89 @@
 				<false/>
 			</dict>
 		</array>
+		<key>303CAB58-86FE-497C-995C-11F659969015</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AC9630DC-D44B-4E8F-992B-1BE2E871095F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+		<key>3604A788-5504-4960-9627-ED7513F68B94</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F4AA118E-E809-48D2-A98F-BE0A5275702E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4346DFB6-F19C-4116-9D27-B502F3F69813</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7522D831-763A-4669-88CB-BEB00AC459C7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>506D6C47-B8AC-4B35-B60E-E3B609ADE435</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2B5BCC87-D7E1-4BF5-B0F4-7987C38B9453</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>593ADF69-4CF9-4931-A159-85E655D79E28</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E4AF385F-0E68-4F1F-B05A-BC01A7A5B95A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>68F7AA3B-238F-42B4-BC92-5D7AC15146CD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AC9630DC-D44B-4E8F-992B-1BE2E871095F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
 		<key>6B3CB906-52D2-4266-8E5F-2F3C1155A05C</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>0C0BAA57-2183-47B7-ADF7-B2BFF95C0B00</string>
+				<string>AC9630DC-D44B-4E8F-992B-1BE2E871095F</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -97,7 +149,7 @@
 				<true/>
 			</dict>
 		</array>
-		<key>7825A897-CDD4-44FF-A140-77E993E1CEF0</key>
+		<key>7522D831-763A-4669-88CB-BEB00AC459C7</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
@@ -110,11 +162,11 @@
 				<true/>
 			</dict>
 		</array>
-		<key>88C6440B-CB89-4474-BC79-6CBB15C2AAEB</key>
+		<key>76044491-9E35-4199-A2F0-48E10A65811B</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>E42119B6-6502-4D2F-B64D-C3EE1F529BAA</string>
+				<string>303CAB58-86FE-497C-995C-11F659969015</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -123,11 +175,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>9D850B6A-2748-4C61-A97C-C011DD03E68A</key>
+		<key>90B2397C-63A9-4129-B6CC-576B99BAD266</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>AC9630DC-D44B-4E8F-992B-1BE2E871095F</string>
+				<string>6B3CB906-52D2-4266-8E5F-2F3C1155A05C</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -136,11 +188,50 @@
 				<false/>
 			</dict>
 		</array>
-		<key>A80B8788-C292-4E26-B51C-F06F12480B4C</key>
+		<key>92B6FFFE-4B20-44C4-A1B3-4935B29D4688</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>228F2D59-495A-43A0-BBCE-BACE4B26F939</string>
+				<string>593ADF69-4CF9-4931-A159-85E655D79E28</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9D8020B2-1848-4854-A880-EDFA9903A04B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>22FC81CE-C782-4476-977B-13B04A1710DA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A2076991-506E-49CF-8800-E2861C3C9565</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>73B4D591-ED4A-4093-AA55-395C376380EB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A6FF1281-70FF-4D5D-8D37-E99CC5F5462C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C1EE606E-5092-4B55-9459-8243E70604A7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -153,7 +244,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>C9F86D5D-BB7F-4000-930F-54F2625D65AC</string>
+				<string>AD53DE8E-21C5-4BEE-A7FF-98E99E88152F</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -162,11 +253,31 @@
 				<false/>
 			</dict>
 		</array>
-		<key>AE9FE23F-D226-40A5-9AB6-253B3093C33B</key>
+		<key>AD53DE8E-21C5-4BEE-A7FF-98E99E88152F</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>6885D6AA-3C22-4DAE-8AF1-D507F675F9E2</string>
+				<string>73B4D591-ED4A-4093-AA55-395C376380EB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>A6FF1281-70FF-4D5D-8D37-E99CC5F5462C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>2BDD415D-E018-4F37-B732-19E96BA056BE</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -175,11 +286,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>CB8D250F-298F-4612-A741-6D4C74C95989</key>
+		<key>B93665E4-5CE2-43A3-9170-617DC9F3F996</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>7825A897-CDD4-44FF-A140-77E993E1CEF0</string>
+				<string>6DE91843-FFC9-45D9-BA43-E4FBCADED50C</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -188,80 +299,46 @@
 				<false/>
 			</dict>
 		</array>
-		<key>E42119B6-6502-4D2F-B64D-C3EE1F529BAA</key>
+		<key>E1F495E2-E1A6-4605-85A6-82DAA48A8340</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>0C0BAA57-2183-47B7-ADF7-B2BFF95C0B00</string>
+				<string>68F7AA3B-238F-42B4-BC92-5D7AC15146CD</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
-				<key>sourceoutputuid</key>
-				<string>E7B2633C-22E5-468B-BDB2-8E74E25AABEC</string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>A80B8788-C292-4E26-B51C-F06F12480B4C</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>sourceoutputuid</key>
-				<string>C6672640-BDB1-4B41-AFB5-E3F39A9CB917</string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>AE9FE23F-D226-40A5-9AB6-253B3093C33B</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>634447CE-A818-4379-B1A7-5E1CDF821B0D</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>sourceoutputuid</key>
-				<string>E199994D-4BCE-493C-9E18-39852BD58A7D</string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>274ABB63-5B3B-42DD-8CC4-CF5C8B855B29</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>sourceoutputuid</key>
-				<string>E145D03E-0464-4B52-A8F5-E143B91B80C3</string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>CB8D250F-298F-4612-A741-6D4C74C95989</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>sourceoutputuid</key>
-				<string>5860E1B1-9C07-447B-B6C4-2A6513D40E70</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
 		</array>
-		<key>ED185B22-78AD-41AB-BD90-74B2C99A4FED</key>
+		<key>E332279E-97DA-4A7C-813D-B5984BFCE8BD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6FCA5952-5E6E-4D60-A9AE-6B438A7DBD0F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E6B171C4-9C10-4A60-8EE0-1B798760AD28</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A2076991-506E-49CF-8800-E2861C3C9565</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F4AA118E-E809-48D2-A98F-BE0A5275702E</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
@@ -282,27 +359,39 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Goodreads Book Search</string>
+	<string>Book Search</string>
 	<key>objects</key>
 	<array>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>externaltriggerid</key>
-				<string>run</string>
-				<key>passinputasargument</key>
-				<true/>
-				<key>passvariables</key>
-				<true/>
-				<key>workflowbundleid</key>
-				<string>self</string>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
+			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>C9F86D5D-BB7F-4000-930F-54F2625D65AC</string>
+			<string>B93665E4-5CE2-43A3-9170-617DC9F3F996</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -320,7 +409,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>gr</string>
+				<string>bk</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -332,7 +421,7 @@
 				<key>runningsubtext</key>
 				<string>Fetching search results…</string>
 				<key>script</key>
-				<string>./goodreads "$1"</string>
+				<string>./alfred-booksearch -search "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -340,11 +429,18 @@
 				<key>subtext</key>
 				<string>Search Goodreads.com</string>
 				<key>title</key>
-				<string>Book Search</string>
+				<string>Search for Books</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
 				<true/>
+			</dict>
+			<key>inboundconfig</key>
+			<dict>
+				<key>externalid</key>
+				<string>search</string>
+				<key>inputmode</key>
+				<integer>1</integer>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
@@ -352,6 +448,391 @@
 			<string>6DE91843-FFC9-45D9-BA43-E4FBCADED50C</string>
 			<key>version</key>
 			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>bkshlf</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading shelves…</string>
+				<key>script</key>
+				<string>./alfred-booksearch -shelves "$1"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Browse your Goodreads Shelves</string>
+				<key>title</key>
+				<string>Goodreads Shelves</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>inboundconfig</key>
+			<dict>
+				<key>externalid</key>
+				<string>shelves</string>
+				<key>inputmode</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>303CAB58-86FE-497C-995C-11F659969015</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>76044491-9E35-4199-A2F0-48E10A65811B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>beep</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>E332279E-97DA-4A7C-813D-B5984BFCE8BD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Morse</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>6FCA5952-5E6E-4D60-A9AE-6B438A7DBD0F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>bkconf</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>./alfred-booksearch -conf "$1"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>View &amp; edit workflow configuration</string>
+				<key>title</key>
+				<string>Book Search Configuration</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>inboundconfig</key>
+			<dict>
+				<key>externalid</key>
+				<string>config</string>
+				<key>inputmode</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>6B3CB906-52D2-4266-8E5F-2F3C1155A05C</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>90B2397C-63A9-4129-B6CC-576B99BAD266</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{var:notification_text}</string>
+				<key>title</key>
+				<string>{var:notification_title}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>73B4D591-ED4A-4093-AA55-395C376380EB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>notify</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>E6B171C4-9C10-4A60-8EE0-1B798760AD28</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>notification_title</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>A2076991-506E-49CF-8800-E2861C3C9565</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>author</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>E1F495E2-E1A6-4605-85A6-82DAA48A8340</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>./alfred-booksearch -author "$1"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>./imdb</string>
+				<key>subtext</key>
+				<string>Shows books by an author</string>
+				<key>title</key>
+				<string>Books by “{var:AUTHOR_NAME}”</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>68F7AA3B-238F-42B4-BC92-5D7AC15146CD</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>hide_alfred</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>A6FF1281-70FF-4D5D-8D37-E99CC5F5462C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.hidealfred</string>
+			<key>uid</key>
+			<string>C1EE606E-5092-4B55-9459-8243E70604A7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>{var:action}</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<false/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>E4AF385F-0E68-4F1F-B05A-BC01A7A5B95A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>./alfred-booksearch $@</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>AD53DE8E-21C5-4BEE-A7FF-98E99E88152F</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -377,6 +858,71 @@ variables={allvars}
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argument</key>
+				<string>.
+/--------- RUN OUT ---------\
+query="{query}"
+variables={allvars}
+\--------- RUN OUT ---------/</string>
+				<key>cleardebuggertext</key>
+				<false/>
+				<key>processoutputs</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.debug</string>
+			<key>uid</key>
+			<string>2BDD415D-E018-4F37-B732-19E96BA056BE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>json</key>
+				<string>{
+  "alfredworkflow" : {
+    "arg" : "{var:query}",
+    "config" : {
+      "passinputasargument" : true,
+      "externaltriggerid" : "{var:action}",
+      "workflowbundleid" : "self",
+      "passvariables" : "{var:passvars}"
+    },
+    "variables" : {
+    }
+  }
+}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.json</string>
+			<key>uid</key>
+			<string>593ADF69-4CF9-4931-A159-85E655D79E28</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{var:action}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>92B6FFFE-4B20-44C4-A1B3-4935B29D4688</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
@@ -400,15 +946,15 @@ variables={allvars}
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./goodreads -conf "$1"</string>
+				<string>./alfred-booksearch -shelf "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
 				<string>./imdb</string>
 				<key>subtext</key>
-				<string>View &amp; edit workflow configuration</string>
+				<string>Shows books in a list</string>
 				<key>title</key>
-				<string>Book Search Configuration</string>
+				<string>Books on Shelf “{var:SHELF_NAME}”</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -417,319 +963,20 @@ variables={allvars}
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>ED185B22-78AD-41AB-BD90-74B2C99A4FED</string>
+			<string>F4AA118E-E809-48D2-A98F-BE0A5275702E</string>
 			<key>version</key>
 			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>grconf</string>
-				<key>subtext</key>
-				<string>View/edit workflow configuration</string>
-				<key>text</key>
-				<string>Book Search Configuration</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>6B3CB906-52D2-4266-8E5F-2F3C1155A05C</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>variables</key>
-				<dict>
-					<key>command</key>
-					<string></string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>0C0BAA57-2183-47B7-ADF7-B2BFF95C0B00</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>alfredfiltersresults</key>
-				<false/>
-				<key>alfredfiltersresultsmatchmode</key>
-				<integer>0</integer>
-				<key>argumenttreatemptyqueryasnil</key>
-				<true/>
-				<key>argumenttrimmode</key>
-				<integer>0</integer>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>queuedelaycustom</key>
-				<integer>3</integer>
-				<key>queuedelayimmediatelyinitially</key>
-				<true/>
-				<key>queuedelaymode</key>
-				<integer>0</integer>
-				<key>queuemode</key>
-				<integer>1</integer>
-				<key>runningsubtext</key>
-				<string></string>
-				<key>script</key>
-				<string>./goodreads -apikey "$1"</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>subtext</key>
-				<string>Enter your API key</string>
-				<key>title</key>
-				<string>Set Goodreads API Key</string>
-				<key>type</key>
-				<integer>0</integer>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.scriptfilter</string>
-			<key>uid</key>
-			<string>228F2D59-495A-43A0-BBCE-BACE4B26F939</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>conditions</key>
-				<array>
-					<dict>
-						<key>inputstring</key>
-						<string>{var:command}</string>
-						<key>matchcasesensitive</key>
-						<false/>
-						<key>matchmode</key>
-						<integer>0</integer>
-						<key>matchstring</key>
-						<string>config</string>
-						<key>outputlabel</key>
-						<string>Workflow Configuration</string>
-						<key>uid</key>
-						<string>E7B2633C-22E5-468B-BDB2-8E74E25AABEC</string>
-					</dict>
-					<dict>
-						<key>inputstring</key>
-						<string>{var:command}</string>
-						<key>matchcasesensitive</key>
-						<false/>
-						<key>matchmode</key>
-						<integer>0</integer>
-						<key>matchstring</key>
-						<string>apikey</string>
-						<key>outputlabel</key>
-						<string>Set API Key</string>
-						<key>uid</key>
-						<string>C6672640-BDB1-4B41-AFB5-E3F39A9CB917</string>
-					</dict>
-					<dict>
-						<key>inputstring</key>
-						<string>{var:command}</string>
-						<key>matchcasesensitive</key>
-						<false/>
-						<key>matchmode</key>
-						<integer>0</integer>
-						<key>matchstring</key>
-						<string>setkey</string>
-						<key>outputlabel</key>
-						<string>Save API Key</string>
-						<key>uid</key>
-						<string>E199994D-4BCE-493C-9E18-39852BD58A7D</string>
-					</dict>
-					<dict>
-						<key>inputstring</key>
-						<string>{var:command}</string>
-						<key>matchcasesensitive</key>
-						<false/>
-						<key>matchmode</key>
-						<integer>0</integer>
-						<key>matchstring</key>
-						<string>delkey</string>
-						<key>outputlabel</key>
-						<string>Delete API Key</string>
-						<key>uid</key>
-						<string>E145D03E-0464-4B52-A8F5-E143B91B80C3</string>
-					</dict>
-					<dict>
-						<key>inputstring</key>
-						<string>{var:command}</string>
-						<key>matchcasesensitive</key>
-						<false/>
-						<key>matchmode</key>
-						<integer>0</integer>
-						<key>matchstring</key>
-						<string>author</string>
-						<key>outputlabel</key>
-						<string>Books by Author</string>
-						<key>uid</key>
-						<string>5860E1B1-9C07-447B-B6C4-2A6513D40E70</string>
-					</dict>
-				</array>
-				<key>elselabel</key>
-				<string>else</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.conditional</string>
-			<key>uid</key>
-			<string>E42119B6-6502-4D2F-B64D-C3EE1F529BAA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>variables</key>
-				<dict>
-					<key>command</key>
-					<string></string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>A80B8788-C292-4E26-B51C-F06F12480B4C</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
 				<key>triggerid</key>
-				<string>run</string>
+				<string>shelf</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.external</string>
 			<key>uid</key>
-			<string>88C6440B-CB89-4474-BC79-6CBB15C2AAEB</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string></string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>6885D6AA-3C22-4DAE-8AF1-D507F675F9E2</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.hidealfred</string>
-			<key>uid</key>
-			<string>AE9FE23F-D226-40A5-9AB6-253B3093C33B</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string>./goodreads -savekey "$1"</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>58F050EC-1328-4D0B-8A7B-9D774BD6612F</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>variables</key>
-				<dict>
-					<key>command</key>
-					<string></string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>634447CE-A818-4379-B1A7-5E1CDF821B0D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string>./goodreads -delkey</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>9D850B6A-2748-4C61-A97C-C011DD03E68A</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>variables</key>
-				<dict>
-					<key>command</key>
-					<string></string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>274ABB63-5B3B-42DD-8CC4-CF5C8B855B29</string>
+			<string>3604A788-5504-4960-9627-ED7513F68B94</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -757,17 +1004,17 @@ variables={allvars}
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string></string>
+				<string>Loading scripts…</string>
 				<key>script</key>
-				<string>./goodreads -author "$1"</string>
+				<string>./alfred-booksearch -scripts "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
 				<string>./imdb</string>
 				<key>subtext</key>
-				<string>View &amp; edit workflow configuration</string>
+				<string></string>
 				<key>title</key>
-				<string>Books for Author</string>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -776,25 +1023,140 @@ variables={allvars}
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>7825A897-CDD4-44FF-A140-77E993E1CEF0</string>
+			<string>7522D831-763A-4669-88CB-BEB00AC459C7</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argument</key>
-				<string></string>
-				<key>variables</key>
-				<dict>
-					<key>command</key>
-					<string></string>
-				</dict>
+				<key>triggerid</key>
+				<string>scripts</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
+			<string>alfred.workflow.trigger.external</string>
 			<key>uid</key>
-			<string>CB8D250F-298F-4612-A741-6D4C74C95989</string>
+			<string>4346DFB6-F19C-4116-9D27-B502F3F69813</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading shelves…</string>
+				<key>script</key>
+				<string>./alfred-booksearch -selection "$1"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>./imdb</string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>2B5BCC87-D7E1-4BF5-B0F4-7987C38B9453</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>select</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>506D6C47-B8AC-4B35-B60E-E3B609ADE435</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading books…</string>
+				<key>script</key>
+				<string>./alfred-booksearch -series "$1"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>./imdb</string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>22FC81CE-C782-4476-977B-13B04A1710DA</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>series</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>9D8020B2-1848-4854-A880-EDFA9903A04B</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -812,185 +1174,246 @@ Configuration
 You **must** set an API key via "grconf" or the workflow won't work.</string>
 	<key>uidata</key>
 	<dict>
-		<key>0C0BAA57-2183-47B7-ADF7-B2BFF95C0B00</key>
-		<dict>
-			<key>xpos</key>
-			<integer>505</integer>
-			<key>ypos</key>
-			<integer>225</integer>
-		</dict>
-		<key>228F2D59-495A-43A0-BBCE-BACE4B26F939</key>
+		<key>22FC81CE-C782-4476-977B-13B04A1710DA</key>
 		<dict>
 			<key>note</key>
-			<string>Enter API key</string>
+			<string>View books in a series</string>
 			<key>xpos</key>
-			<integer>600</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<integer>350</integer>
+			<integer>1210</integer>
 		</dict>
-		<key>274ABB63-5B3B-42DD-8CC4-CF5C8B855B29</key>
-		<dict>
-			<key>xpos</key>
-			<integer>505</integer>
-			<key>ypos</key>
-			<integer>690</integer>
-		</dict>
-		<key>58F050EC-1328-4D0B-8A7B-9D774BD6612F</key>
+		<key>2B5BCC87-D7E1-4BF5-B0F4-7987C38B9453</key>
 		<dict>
 			<key>note</key>
-			<string>Save API key</string>
+			<string>Select shelves</string>
 			<key>xpos</key>
-			<integer>600</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<integer>505</integer>
+			<integer>1045</integer>
 		</dict>
-		<key>634447CE-A818-4379-B1A7-5E1CDF821B0D</key>
+		<key>2BDD415D-E018-4F37-B732-19E96BA056BE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>505</integer>
+			<integer>975</integer>
 			<key>ypos</key>
-			<integer>535</integer>
+			<integer>665</integer>
 		</dict>
-		<key>6885D6AA-3C22-4DAE-8AF1-D507F675F9E2</key>
+		<key>303CAB58-86FE-497C-995C-11F659969015</key>
+		<dict>
+			<key>note</key>
+			<string>View your shelves</string>
+			<key>xpos</key>
+			<integer>260</integer>
+			<key>ypos</key>
+			<integer>215</integer>
+		</dict>
+		<key>3604A788-5504-4960-9627-ED7513F68B94</key>
 		<dict>
 			<key>xpos</key>
-			<integer>965</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>465</integer>
+			<integer>710</integer>
+		</dict>
+		<key>4346DFB6-F19C-4116-9D27-B502F3F69813</key>
+		<dict>
+			<key>xpos</key>
+			<integer>40</integer>
+			<key>ypos</key>
+			<integer>880</integer>
+		</dict>
+		<key>506D6C47-B8AC-4B35-B60E-E3B609ADE435</key>
+		<dict>
+			<key>xpos</key>
+			<integer>40</integer>
+			<key>ypos</key>
+			<integer>1045</integer>
+		</dict>
+		<key>593ADF69-4CF9-4931-A159-85E655D79E28</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1130</integer>
+			<key>ypos</key>
+			<integer>665</integer>
+		</dict>
+		<key>68F7AA3B-238F-42B4-BC92-5D7AC15146CD</key>
+		<dict>
+			<key>note</key>
+			<string>Filter author's books</string>
+			<key>xpos</key>
+			<integer>260</integer>
+			<key>ypos</key>
+			<integer>540</integer>
 		</dict>
 		<key>6B3CB906-52D2-4266-8E5F-2F3C1155A05C</key>
 		<dict>
+			<key>note</key>
+			<string>Workflow configuration</string>
 			<key>xpos</key>
-			<integer>45</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<integer>195</integer>
+			<integer>380</integer>
 		</dict>
 		<key>6DE91843-FFC9-45D9-BA43-E4FBCADED50C</key>
 		<dict>
 			<key>note</key>
 			<string>Search books</string>
 			<key>xpos</key>
-			<integer>45</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<integer>40</integer>
+			<integer>50</integer>
 		</dict>
-		<key>7825A897-CDD4-44FF-A140-77E993E1CEF0</key>
+		<key>6FCA5952-5E6E-4D60-A9AE-6B438A7DBD0F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>975</integer>
+			<key>ypos</key>
+			<integer>280</integer>
+		</dict>
+		<key>73B4D591-ED4A-4093-AA55-395C376380EB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>975</integer>
+			<key>ypos</key>
+			<integer>430</integer>
+		</dict>
+		<key>7522D831-763A-4669-88CB-BEB00AC459C7</key>
 		<dict>
 			<key>note</key>
-			<string>Filter author's books</string>
+			<string>Show available scripts</string>
 			<key>xpos</key>
-			<integer>600</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<integer>820</integer>
+			<integer>880</integer>
 		</dict>
-		<key>88C6440B-CB89-4474-BC79-6CBB15C2AAEB</key>
+		<key>76044491-9E35-4199-A2F0-48E10A65811B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>45</integer>
+			<integer>35</integer>
 			<key>ypos</key>
-			<integer>395</integer>
+			<integer>215</integer>
 		</dict>
-		<key>9D850B6A-2748-4C61-A97C-C011DD03E68A</key>
-		<dict>
-			<key>note</key>
-			<string>Delete API key</string>
-			<key>xpos</key>
-			<integer>600</integer>
-			<key>ypos</key>
-			<integer>660</integer>
-		</dict>
-		<key>A80B8788-C292-4E26-B51C-F06F12480B4C</key>
+		<key>90B2397C-63A9-4129-B6CC-576B99BAD266</key>
 		<dict>
 			<key>xpos</key>
-			<integer>505</integer>
+			<integer>35</integer>
 			<key>ypos</key>
 			<integer>380</integer>
+		</dict>
+		<key>92B6FFFE-4B20-44C4-A1B3-4935B29D4688</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1055</integer>
+			<key>ypos</key>
+			<integer>665</integer>
+		</dict>
+		<key>9D8020B2-1848-4854-A880-EDFA9903A04B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>40</integer>
+			<key>ypos</key>
+			<integer>1210</integer>
+		</dict>
+		<key>A2076991-506E-49CF-8800-E2861C3C9565</key>
+		<dict>
+			<key>xpos</key>
+			<integer>830</integer>
+			<key>ypos</key>
+			<integer>460</integer>
+		</dict>
+		<key>A6FF1281-70FF-4D5D-8D37-E99CC5F5462C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>975</integer>
+			<key>ypos</key>
+			<integer>560</integer>
 		</dict>
 		<key>AC9630DC-D44B-4E8F-992B-1BE2E871095F</key>
 		<dict>
 			<key>xpos</key>
-			<integer>885</integer>
+			<integer>660</integer>
 			<key>ypos</key>
-			<integer>70</integer>
+			<integer>665</integer>
 		</dict>
-		<key>AE9FE23F-D226-40A5-9AB6-253B3093C33B</key>
+		<key>AD53DE8E-21C5-4BEE-A7FF-98E99E88152F</key>
 		<dict>
 			<key>xpos</key>
-			<integer>885</integer>
+			<integer>755</integer>
 			<key>ypos</key>
-			<integer>495</integer>
+			<integer>635</integer>
 		</dict>
-		<key>C9F86D5D-BB7F-4000-930F-54F2625D65AC</key>
+		<key>B93665E4-5CE2-43A3-9170-617DC9F3F996</key>
 		<dict>
 			<key>xpos</key>
-			<integer>965</integer>
+			<integer>35</integer>
 			<key>ypos</key>
+			<integer>50</integer>
+		</dict>
+		<key>C1EE606E-5092-4B55-9459-8243E70604A7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1055</integer>
+			<key>ypos</key>
+			<integer>560</integer>
+		</dict>
+		<key>E1F495E2-E1A6-4605-85A6-82DAA48A8340</key>
+		<dict>
+			<key>xpos</key>
 			<integer>40</integer>
+			<key>ypos</key>
+			<integer>540</integer>
 		</dict>
-		<key>CB8D250F-298F-4612-A741-6D4C74C95989</key>
+		<key>E332279E-97DA-4A7C-813D-B5984BFCE8BD</key>
 		<dict>
 			<key>xpos</key>
-			<integer>510</integer>
+			<integer>660</integer>
 			<key>ypos</key>
-			<integer>850</integer>
+			<integer>280</integer>
 		</dict>
-		<key>E42119B6-6502-4D2F-B64D-C3EE1F529BAA</key>
+		<key>E4AF385F-0E68-4F1F-B05A-BC01A7A5B95A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>225</integer>
+			<integer>1220</integer>
 			<key>ypos</key>
-			<integer>355</integer>
+			<integer>635</integer>
 		</dict>
-		<key>ED185B22-78AD-41AB-BD90-74B2C99A4FED</key>
+		<key>E6B171C4-9C10-4A60-8EE0-1B798760AD28</key>
+		<dict>
+			<key>xpos</key>
+			<integer>660</integer>
+			<key>ypos</key>
+			<integer>430</integer>
+		</dict>
+		<key>F4AA118E-E809-48D2-A98F-BE0A5275702E</key>
 		<dict>
 			<key>note</key>
-			<string>View configuration</string>
+			<string>Show books on shelf</string>
 			<key>xpos</key>
-			<integer>600</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<integer>195</integer>
+			<integer>710</integer>
 		</dict>
 	</dict>
 	<key>variables</key>
 	<dict>
-		<key>MAX_CACHE_AGE</key>
-		<string>24h</string>
-		<key>NAME_CTRL</key>
-		<string>Search on MyAnonamouse</string>
-		<key>NAME_CTRL_CMD</key>
-		<string>Search for cover on Google Images</string>
-		<key>NAME_OPT_CMD</key>
-		<string>Search for cover</string>
-		<key>NAME_OPT_CTRL</key>
-		<string>Search on What Should I Read Next?</string>
-		<key>NAME_SHIFT</key>
-		<string>Show similar books</string>
-		<key>URL_CTRL</key>
-		<string>https://www.myanonamouse.net/tor/browse.php?tor[text]=${AuthorTitleNoSeries}&amp;tor[srchIn][title]=true&amp;tor[srchIn][author]=true&amp;tor[srchIn][series]=true&amp;tor[searchType]=all&amp;tor[searchIn]=torrents&amp;tor[cat][]=39&amp;tor[cat][]=49&amp;tor[cat][]=50&amp;tor[cat][]=83&amp;tor[cat][]=51&amp;tor[cat][]=97&amp;tor[cat][]=40&amp;tor[cat][]=41&amp;tor[cat][]=106&amp;tor[cat][]=42&amp;tor[cat][]=52&amp;tor[cat][]=98&amp;tor[cat][]=54&amp;tor[cat][]=55&amp;tor[cat][]=43&amp;tor[cat][]=99&amp;tor[cat][]=84&amp;tor[cat][]=44&amp;tor[cat][]=56&amp;tor[cat][]=45&amp;tor[cat][]=57&amp;tor[cat][]=85&amp;tor[cat][]=87&amp;tor[cat][]=119&amp;tor[cat][]=88&amp;tor[cat][]=58&amp;tor[cat][]=59&amp;tor[cat][]=46&amp;tor[cat][]=47&amp;tor[cat][]=53&amp;tor[cat][]=89&amp;tor[cat][]=100&amp;tor[cat][]=108&amp;tor[cat][]=48&amp;tor[cat][]=111&amp;tor[cat][]=60&amp;tor[cat][]=71&amp;tor[cat][]=72&amp;tor[cat][]=90&amp;tor[cat][]=61&amp;tor[cat][]=73&amp;tor[cat][]=101&amp;tor[cat][]=62&amp;tor[cat][]=63&amp;tor[cat][]=107&amp;tor[cat][]=64&amp;tor[cat][]=74&amp;tor[cat][]=102&amp;tor[cat][]=76&amp;tor[cat][]=77&amp;tor[cat][]=65&amp;tor[cat][]=103&amp;tor[cat][]=115&amp;tor[cat][]=91&amp;tor[cat][]=66&amp;tor[cat][]=78&amp;tor[cat][]=67&amp;tor[cat][]=79&amp;tor[cat][]=80&amp;tor[cat][]=92&amp;tor[cat][]=118&amp;tor[cat][]=94&amp;tor[cat][]=120&amp;tor[cat][]=95&amp;tor[cat][]=81&amp;tor[cat][]=82&amp;tor[cat][]=68&amp;tor[cat][]=69&amp;tor[cat][]=75&amp;tor[cat][]=96&amp;tor[cat][]=104&amp;tor[cat][]=109&amp;tor[cat][]=70&amp;tor[cat][]=112&amp;tor[cat][]=127&amp;tor[cat][]=130&amp;tor[cat][]=128&amp;tor[cat][]=132&amp;tor[cat][]=0&amp;tor[browse_lang][]=1&amp;tor[browse_lang][]=37&amp;tor[browseFlagsHideVsShow]=0&amp;tor[sortType]=default&amp;tor[startNumber]=0&amp;thumbnail=true</string>
-		<key>URL_CTRL_CMD</key>
-		<string>https://www.google.com/search?hl=en&amp;tbm=isch&amp;source=hp&amp;q=site%3Abooks.apple.com+${AuthorTitleNoSeries}</string>
-		<key>URL_OPT_CMD</key>
-		<string>https://google.cnblw.me/searx/?categories=images&amp;language=en&amp;q=audiobook+cover+${AuthorTitleNoSeries}</string>
-		<key>URL_OPT_CTRL</key>
-		<string>https://www.whatshouldireadnext.com/index.php?q=${TitleNoSeries}</string>
-		<key>URL_SHIFT</key>
-		<string>https://www.goodreads.com/book/similar/${WorkID}</string>
+		<key>ACTION_ALT</key>
+		<string>View Series</string>
+		<key>ACTION_DEFAULT</key>
+		<string>Open Book Page</string>
+		<key>EXPORT_DETAILS</key>
+		<string>false</string>
+		<key>USER_ID</key>
+		<string></string>
+		<key>USER_NAME</key>
+		<string></string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array>
-		<string>NAME_OPT_CMD</string>
-		<string>URL_CTRL_CMD</string>
-		<string>NAME_SHIFT</string>
-		<string>NAME_CTRL</string>
-		<string>URL_SHIFT</string>
-		<string>URL_CTRL</string>
-		<string>NAME_OPT_CTRL</string>
-		<string>URL_OPT_CMD</string>
-		<string>URL_OPT_CTRL</string>
-		<string>NAME_CTRL_CMD</string>
+		<string>USER_ID</string>
+		<string>USER_NAME</string>
 	</array>
 	<key>version</key>
-	<string>0.1.4</string>
+	<string>0.2.0</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>

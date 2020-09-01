@@ -1,0 +1,22 @@
+#!/bin/zsh
+
+names=(USER_ID USER_NAME ACTION_CTRL ACTION_CTRL_CMD ACTION_OPT_CMD ACTION_OPT_CTRL ACTION_SHIFT)
+present=()
+
+for name in $names; do
+	value="$( /usr/libexec/PlistBuddy -c "Print :variables:${name}" info.plist 2>/dev/null )"
+	test -z "$value" || present+=($name)
+done
+
+if [[ "${#present}" -gt 0 ]]; then
+	print -P "%F{red}Please remove the following variables from info.plist before committing:%f"
+	print -l $present
+	exit 1
+fi
+
+set -e
+
+golint -set_exit_status ./...
+golangci-lint run -c .golangci.toml
+print -P "%F{green}linted OK%f"
+go mod tidy

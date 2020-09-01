@@ -1,7 +1,0 @@
-#!/bin/zsh
-
-apikey="$( /usr/libexec/PlistBuddy -c "Print :variables:API_KEY" info.plist )"
-test -z "$apikey" || {
-    echo "ERROR: API_KEY is set in info.plist"
-    exit 1
-}

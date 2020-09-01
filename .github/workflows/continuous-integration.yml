@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  test:
+    env:
+      alfred_version: '4.1'
+      alfred_preferences: 'Alfred.alfredpreferences'
+    name: Lint and test
+    runs-on: macos-latest
+    steps:
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.14.x
+
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Install linting dependencies
+        run: |
+          go get golang.org/x/lint/golint
+          go get github.com/golangci/golangci-lint/cmd/golangci-lint
+
+      - name: Lint Go source code
+        run: |
+          golint -set_exit_status ./...
+          golangci-lint run -c .golangci.toml
+
+      - name: Run unit tests
+        run: go test -v ./...
+
+      - name: Build workflow
+        run: |
+          go get github.com/magefile/mage
+          mkdir -vp Alfred.alfredpreferences/workflows
+          mage -v build
